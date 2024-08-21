@@ -1,6 +1,6 @@
 <?php ob_start() ?>
 <?php $metaDescription = "Découvrez nos soins amincissants de pointe pour sculpter votre silhouette. Transformez-vous avec des traitements experts. Réservez dès maintenant : séance LPB Alliance" ?>
-<?php $title = "Studio 46 | Amincissement" ?>
+<?php $title = "Studio 46 | Programme ker'active" ?>
 <!--Page Header Start-->
 <section class="page-header">
     <div class="page-header__bg" style="background-image: url(assets/images/studio46/breadcrumbs/amincissement.webp);">
@@ -12,9 +12,9 @@
                 <li><span>/</span></li>
                 <li><a href="services.html">Nos prestations</a></li>
                 <li><span>/</span></li>
-                <li>Amincissement</li>
+                <li>Programme ker'active</li>
             </ul>
-            <h2>Amincissement</h2>
+            <h2>Programme ker'active</h2>
         </div>
     </div>
 </section>
@@ -29,31 +29,34 @@
                     <div class="services-details-two__category">
                         <ul class="services-details-two__category-list list-unstyled">
                             <li>
-                                <a href="<?= URL ?>?p=soins-du-visage">Soins du visage<i class="fa fa-angle-right"></i></a>
+                                <a href="<?= URL ?>?p=kera-visage-sur-mesure">Kera visage sur mesure<i class="fa fa-angle-right"></i></a>
                             </li>
                             <li>
-                                <a href="<?= URL ?>?p=soins-du-corps">Soins du corps<i class="fa fa-angle-right"></i></a>
+                                <a href="<?= URL ?>?p=kera-facialisme">Kera facialisme<i class="fa fa-angle-right"></i></a>
                             </li>
                             <li>
-                                <a href="<?= URL ?>?p=soins-des-mains-et-des-pieds">Soins des mains et des pieds<i class="fa fa-angle-right"></i></a>
+                                <a href="<?= URL ?>?p=kera-visage-high-tech">Kera visage high tech<i class="fa fa-angle-right"></i></a>
+                            </li>
+                            <li>
+                                <a href="<?= URL ?>?p=kera-corps">kera corps<i class="fa fa-angle-right"></i></a>
+                            </li>
+                            <li>
+                                <a href="<?= URL ?>?p=kera-experience">Kera experience<i class="fa fa-angle-right"></i></a>
+                            </li>
+                            <li>
+                                <a href="<?= URL ?>?p=bronzage">Kera minceur<i class="fa fa-angle-right"></i></a>
+                            </li>
+                            <li>
+                                <a href="<?= URL ?>?p=kera-bronz">Kera bronz<i class="fa fa-angle-right"></i></a>
+                            </li>
+                            <li>
+                                <a href="<?= URL ?>?p=kera-epil">Kera epil'<i class="fa fa-angle-right"></i></a>
                             </li>
                             <li class="active">
-                                <a href="<?= URL ?>?p=amincissement">Amincissement<i class="fa fa-angle-right"></i></a>
+                                <a href="<?= URL ?>?p=programme-keractive">Le programme Ker'active<i class="fa fa-angle-right"></i></a>
                             </li>
                             <li>
-                                <a href="<?= URL ?>?p=maquillage">Maquillage<i class="fa fa-angle-right"></i></a>
-                            </li>
-                            <li>
-                                <a href="<?= URL ?>?p=beaute-du-regard">Beauté du regard<i class="fa fa-angle-right"></i></a>
-                            </li>
-                            <li>
-                                <a href="<?= URL ?>?p=bronzage">Bronzage<i class="fa fa-angle-right"></i></a>
-                            </li>
-                            <li>
-                                <a href="<?= URL ?>?p=aquabike">Aquabike<i class="fa fa-angle-right"></i></a>
-                            </li>
-                            <li>
-                                <a href="<?= URL ?>?p=epilation">Epilation<i class="fa fa-angle-right"></i></a>
+                                <a href="<?= URL ?>?p=programme-kera-performance">Le programme Kera performance<i class="fa fa-angle-right"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -73,8 +76,8 @@
             </div>
             <div class="col-xl-8 col-lg-7">
                 <div class="services-details-two__right">
-                    <h3 class="services-details-two__title-1">Amincissement</h3>
-                    <p class="services-details-two__text-1">Que vous cherchiez à perdre quelques centimètres, à tonifier certaines zones de votre corps ou à retrouver une énergie vitale, nous avons les solutions pour vous. Nous nous engageons à vous offrir une expérience d'amincissement sûre, efficace et durable.</p>
+                    <h3 class="services-details-two__title-1">Programme ker'active</h3>
+                    <p class="services-details-two__text-1">Que vous cherchiez à perdre quelques centimètres, à tonifier certaines zones de votre corps ou à retrouver une énergie vitale, nous avons les solutions pour vous. Nous nous engageons à vous offrir une expérience d'Programme ker'active sûre, efficace et durable.</p>
                     
                     <div class="services-details-two__faq">
                         <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
@@ -208,4 +211,4 @@
 <!--Services Details Two End-->
 
 <?php $content = ob_get_clean() ?>
-<?php  require_once 'template.php' ?>
+<?php  require_once './views/template.php' ?>

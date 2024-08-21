@@ -1,6 +1,6 @@
 <?php ob_start() ?>
 <?php $metaDescription = "Obtenez des cils luxuriants et envoûtants avec nos extensions professionnelles. Révélez un regard saisissant. Réservez votre séance dès maintenant : pose complète, remplissage.." ?>
-<?php $title = "Studio 46 | Beauté du regard" ?>
+<?php $title = "Studio 46 | Kera expérience" ?>
 <!--Page Header Start-->
         <section class="page-header">
     <div class="page-header__bg" style="background-image: url(assets/images/studio46/breadcrumbs/beaute-du-regard.webp);">
@@ -12,9 +12,9 @@
                 <li><span>/</span></li>
                 <li><a href="services.html">Nos prestations</a></li>
                 <li><span>/</span></li>
-                <li>Beauté du regard</li>
+                <li>Kera expérience</li>
             </ul>
-        <h2>Beauté du regard</h2>
+        <h2>Kera expérience</h2>
     </div>
 </div>
 </section>
@@ -29,31 +29,37 @@
                 <div class="services-details-two__category">
                     <ul class="services-details-two__category-list list-unstyled">
                         <li>
-                            <a href="<?= URL ?>?p=soins-du-visage">Soins du visage<i class="fa fa-angle-right"></i></a>
+                            <a href="<?= URL ?>?p=kera-visage-sur-mesure">Kera visage sur mesure<i class="fa fa-angle-right"></i></a>
                         </li>
                         <li>
-                            <a href="<?= URL ?>?p=soins-du-corps">Soins du corps<i class="fa fa-angle-right"></i></a>
+                            <a href="<?= URL ?>?p=kera-facialisme">Kera facialisme<i class="fa fa-angle-right"></i></a>
                         </li>
                         <li>
-                            <a href="<?= URL ?>?p=soins-des-mains-et-des-pieds">Soins des mains et des pieds<i class="fa fa-angle-right"></i></a>
+                            <a href="<?= URL ?>?p=kera-visage-high-tech">Kera visage high tech<i class="fa fa-angle-right"></i></a>
                         </li>
                         <li>
-                            <a href="<?= URL ?>?p=amincissement">Amincissement<i class="fa fa-angle-right"></i></a>
+                            <a href="<?= URL ?>?p=beauty-and-go">Beauty and go<i class="fa fa-angle-right"></i></a>
                         </li>
                         <li>
-                            <a href="<?= URL ?>?p=maquillage">Maquillage<i class="fa fa-angle-right"></i></a>
+                            <a href="<?= URL ?>?p=kera-corps">kera corps<i class="fa fa-angle-right"></i></a>
                         </li>
                         <li class="active">
-                            <a href="<?= URL ?>?p=extension-de-cils">Beauté du regard<i class="fa fa-angle-right"></i></a>
+                            <a href="<?= URL ?>?p=kera-experience">Kera experience<i class="fa fa-angle-right"></i></a>
                         </li>
                         <li>
-                            <a href="<?= URL ?>?p=bronzage">Bronzage<i class="fa fa-angle-right"></i></a>
+                            <a href="<?= URL ?>?p=kera-minceur">Kera minceur<i class="fa fa-angle-right"></i></a>
                         </li>
                         <li>
-                            <a href="<?= URL ?>?p=aquabike">Aquabike<i class="fa fa-angle-right"></i></a>
+                            <a href="<?= URL ?>?p=kera-bronz">Kera bronz'<i class="fa fa-angle-right"></i></a>
                         </li>
                         <li>
-                            <a href="<?= URL ?>?p=epilation">Epilation<i class="fa fa-angle-right"></i></a>
+                            <a href="<?= URL ?>?p=kera-epil">Kera epil'<i class="fa fa-angle-right"></i></a>
+                        </li>
+                        <li>
+                            <a href="<?= URL ?>?p=programme-keractive">Le programme Ker'active<i class="fa fa-angle-right"></i></a>
+                        </li>
+                        <li>
+                            <a href="<?= URL ?>?p=programme-kera-performance">Le programme Kera performance<i class="fa fa-angle-right"></i></a>
                         </li>
                     </ul>
                 </div>
@@ -73,8 +79,8 @@
         </div>
         <div class="col-xl-8 col-lg-7">
             <div class="services-details-two__right">
-                <h3 class="services-details-two__title-1">Beauté du regard</h3>
-                <p class="services-details-two__text-1">Notre équipe d'experts en Beauté du regard saura choisir les cils appropriés pour compléter la forme de vos yeux et rehausser votre regard de manière personnalisée. Vous vous sentirez plus confiante que jamais avec des cils qui semblent tout droit sortis d'un rêve.</p>
+                <h3 class="services-details-two__title-1">Kera expérience</h3>
+                <p class="services-details-two__text-1">Notre équipe d'experts en Kera expérience saura choisir les cils appropriés pour compléter la forme de vos yeux et rehausser votre regard de manière personnalisée. Vous vous sentirez plus confiante que jamais avec des cils qui semblent tout droit sortis d'un rêve.</p>
                 
                 <div class="services-details-two__faq">
                     <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
@@ -232,4 +238,4 @@
 </section>
 <!--Services Details Two End-->
 <?php $content = ob_get_clean() ?>
-<?php require_once 'template.php' ?>
+<?php require_once './views/template.php' ?>

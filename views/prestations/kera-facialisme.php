@@ -1,6 +1,6 @@
 <?php ob_start() ?>
 <?php $metaDescription = "Offrez à votre corps le bien-être qu'il mérite avec nos soins corporels apaisants. Détente et revitalisation au rendez-vous : soin californien, suédois, lomi lomi.." ?>
-<?php $title = "Studio 46 | Soins du corps" ?>
+<?php $title = "Studio 46 | Kera facialisme" ?>
 <!--Page Header Start-->
         <section class="page-header">
             <div class="page-header__bg" style="background-image: url(assets/images/studio46/breadcrumbs/soins-du-corps.webp);">
@@ -12,9 +12,9 @@
                         <li><span>/</span></li>
                         <li><a href="services.html">Nos prestations</a></li>
                         <li><span>/</span></li>
-                        <li>Soins du corps</li>
+                        <li>Kera facialisme</li>
                     </ul>
-                    <h2>Soins du corps</h2>
+                    <h2>Kera facialisme</h2>
                 </div>
             </div>
         </section>
@@ -28,34 +28,40 @@
                         <div class="services-details-two__left">
                             <div class="services-details-two__category">
                                 <ul class="services-details-two__category-list list-unstyled">
-                                <li>
-                                <a href="<?= URL ?>?p=soins-du-visage">Soins du visage<i class="fa fa-angle-right"></i></a>
-                                </li>
-                                <li class="active">
-                                    <a href="<?= URL ?>?p=soins-du-corps">Soins du corps<i class="fa fa-angle-right"></i></a>
-                                </li>
-                                <li>
-                                    <a href="<?= URL ?>?p=soins-des-mains-et-des-pieds">Soins des mains et des pieds<i class="fa fa-angle-right"></i></a>
-                                </li>
-                                <li>
-                                    <a href="<?= URL ?>?p=amincissement">Amincissement<i class="fa fa-angle-right"></i></a>
-                                </li>
-                                <li>
-                                    <a href="<?= URL ?>?p=maquillage">Maquillage<i class="fa fa-angle-right"></i></a>
-                                </li>
-                                <li>
-                                    <a href="<?= URL ?>?p=beaute-du-regard">Beauté du regard<i class="fa fa-angle-right"></i></a>
-                                </li>
-                                <li>
-                                    <a href="<?= URL ?>?p=bronzage">Bronzage<i class="fa fa-angle-right"></i></a>
-                                </li>
-                                <li>
-                                    <a href="<?= URL ?>?p=aquabike">Aquabike<i class="fa fa-angle-right"></i></a>
-                                </li>
-                                <li>
-                                    <a href="<?= URL ?>?p=epilation">Epilation<i class="fa fa-angle-right"></i></a>
-                                </li>
-                            </ul>
+                                    <li>
+                                        <a href="<?= URL ?>?p=kera-visage-sur-mesure">Kera visage sur mesure<i class="fa fa-angle-right"></i></a>
+                                    </li>
+                                    <li class="active">
+                                        <a href="<?= URL ?>?p=kera-facialisme">Kera facialisme<i class="fa fa-angle-right"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="<?= URL ?>?p=kera-visage-high-tech">Kera visage high tech<i class="fa fa-angle-right"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="<?= URL ?>?p=beauty-and-go">Beauty and go<i class="fa fa-angle-right"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="<?= URL ?>?p=kera-corps">kera corps<i class="fa fa-angle-right"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="<?= URL ?>?p=kera-experience">Kera experience<i class="fa fa-angle-right"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="<?= URL ?>?p=kera-minceur">Kera minceur<i class="fa fa-angle-right"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="<?= URL ?>?p=kera-bronz">Kera bronz'<i class="fa fa-angle-right"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="<?= URL ?>?p=kera-epil">Kera epil'<i class="fa fa-angle-right"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="<?= URL ?>?p=programme-keractive">Le programme Ker'active<i class="fa fa-angle-right"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="<?= URL ?>?p=programme-kera-performance">Le programme Kera performance<i class="fa fa-angle-right"></i></a>
+                                    </li>
+                                </ul>
                             </div>
                             <div class="services-details-two__help-line">
                                 <div class="services-details-two__help-line-img">
@@ -73,8 +79,8 @@
                     </div>
                     <div class="col-xl-8 col-lg-7">
                         <div class="services-details-two__right">
-                            <h3 class="services-details-two__title-1">Soins du corps</h3>
-                            <p class="services-details-two__text-1">Au Studio 46, nous sommes convaincus que le corps mérite autant d'attention que le visage. C'est pourquoi nous avons élaboré des traitements corporels sur mesure pour vous offrir une expérience de bien-être totale. Nos soins du corps sont conçus pour vous apporter relaxation, tonification et une sensation de bien-être profond.</p>
+                            <h3 class="services-details-two__title-1">Kera facialisme</h3>
+                            <p class="services-details-two__text-1">Au Studio 46, nous sommes convaincus que le corps mérite autant d'attention que le visage. C'est pourquoi nous avons élaboré des traitements corporels sur mesure pour vous offrir une expérience de bien-être totale. Nos Kera facialisme sont conçus pour vous apporter relaxation, tonification et une sensation de bien-être profond.</p>
                             
                             <div class="services-details-two__faq">
                                 <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
@@ -400,4 +406,4 @@
             </div>
         </section>
 <?php $content = ob_get_clean() ?>
-<?php  require_once 'template.php' ?>
+<?php  require_once './views/template.php' ?>

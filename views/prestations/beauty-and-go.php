@@ -1,6 +1,6 @@
 <?php ob_start() ?>
-<?php $metaDescription = "Laissez notre expertise en maquillage sublimer votre beauté naturelle. Découvrez des looks captivants et réservez votre transformation dès aujourd'hui : maquillage de jour, soirée, teintures sourcils .." ?>
-<?php $title = "Studio 46 | Maquillage" ?>
+<?php $metaDescription = "Laissez notre expertise en Beauty and go sublimer votre beauté naturelle. Découvrez des looks captivants et réservez votre transformation dès aujourd'hui : Beauty and go de jour, soirée, teintures sourcils .." ?>
+<?php $title = "Studio 46 | Beauty and go" ?>
 <!--Page Header Start-->
 <section class="page-header">
             <div class="page-header__bg" style="background-image: url(assets/images/studio46/breadcrumbs/maquillage.webp);">
@@ -12,9 +12,9 @@
                         <li><span>/</span></li>
                         <li><a href="services.html">Nos prestations</a></li>
                         <li><span>/</span></li>
-                        <li>Maquillage</li>
+                        <li>Beauty and go</li>
                     </ul>
-                <h2>Maquillage</h2>
+                <h2>Beauty and go</h2>
             </div>
         </div>
     </section>
@@ -29,31 +29,37 @@
                         <div class="services-details-two__category">
                             <ul class="services-details-two__category-list list-unstyled">
                                 <li>
-                                    <a href="<?= URL ?>?p=soins-du-visage">Soins du visage<i class="fa fa-angle-right"></i></a>
+                                    <a href="<?= URL ?>?p=kera-visage-sur-mesure">Kera visage sur mesure<i class="fa fa-angle-right"></i></a>
                                 </li>
                                 <li>
-                                    <a href="<?= URL ?>?p=soins-du-corps">Soins du corps<i class="fa fa-angle-right"></i></a>
+                                    <a href="<?= URL ?>?p=kera-facialisme">Kera facialisme<i class="fa fa-angle-right"></i></a>
                                 </li>
                                 <li>
-                                    <a href="<?= URL ?>?p=soins-des-mains-et-des-pieds">Soins des mains et des pieds<i class="fa fa-angle-right"></i></a>
-                                </li>
-                                <li>
-                                    <a href="<?= URL ?>?p=amincissement">Amincissement<i class="fa fa-angle-right"></i></a>
+                                    <a href="<?= URL ?>?p=kera-visage-high-tech">Kera visage high tech<i class="fa fa-angle-right"></i></a>
                                 </li>
                                 <li class="active">
-                                    <a href="<?= URL ?>?p=maquillage">Maquillage<i class="fa fa-angle-right"></i></a>
+                                    <a href="<?= URL ?>?p=beauty-and-go">Beauty and go<i class="fa fa-angle-right"></i></a>
                                 </li>
                                 <li>
-                                    <a href="<?= URL ?>?p=beaute-du-regard">Beauté du regard<i class="fa fa-angle-right"></i></a>
+                                    <a href="<?= URL ?>?p=kera-corps">kera corps<i class="fa fa-angle-right"></i></a>
                                 </li>
                                 <li>
-                                    <a href="<?= URL ?>?p=bronzage">Bronzage<i class="fa fa-angle-right"></i></a>
+                                    <a href="<?= URL ?>?p=kera-experience">Kera experience<i class="fa fa-angle-right"></i></a>
                                 </li>
                                 <li>
-                                    <a href="<?= URL ?>?p=aquabike">Aquabike<i class="fa fa-angle-right"></i></a>
+                                    <a href="<?= URL ?>?p=kera-minceur">Kera minceur<i class="fa fa-angle-right"></i></a>
                                 </li>
                                 <li>
-                                    <a href="<?= URL ?>?p=epilation">Epilation<i class="fa fa-angle-right"></i></a>
+                                    <a href="<?= URL ?>?p=kera-bronz">Kera bronz'<i class="fa fa-angle-right"></i></a>
+                                </li>
+                                <li>
+                                    <a href="<?= URL ?>?p=kera-epil">Kera epil'<i class="fa fa-angle-right"></i></a>
+                                </li>
+                                <li>
+                                    <a href="<?= URL ?>?p=programme-keractive">Le programme Ker'active<i class="fa fa-angle-right"></i></a>
+                                </li>
+                                <li>
+                                    <a href="<?= URL ?>?p=programme-kera-performance">Le programme Kera performance<i class="fa fa-angle-right"></i></a>
                                 </li>
                             </ul>
                         </div>
@@ -73,8 +79,8 @@
                 </div>
                 <div class="col-xl-8 col-lg-7">
                     <div class="services-details-two__right">
-                        <h3 class="services-details-two__title-1">Maquillage</h3>
-                        <p class="services-details-two__text-1">Sublimez votre beauté naturelle avec notre service de maquillage personnalisé au Studio 46 ! Que ce soit pour une occasion spéciale, un événement important ou simplement pour vous faire plaisir, notre équipe de maquilleurs professionnels est là pour vous offrir un maquillage impeccable et sur mesure.</p>
+                        <h3 class="services-details-two__title-1">Beauty and go</h3>
+                        <p class="services-details-two__text-1">Sublimez votre beauté naturelle avec notre service de Beauty and go personnalisé au Studio 46 ! Que ce soit pour une occasion spéciale, un événement important ou simplement pour vous faire plaisir, notre équipe de maquilleurs professionnels est là pour vous offrir un Beauty and go impeccable et sur mesure.</p>
                         
                         <div class="inner" style="margin-top: 30px;">
                             <ul class="services-details-two__points list-unstyled">
@@ -84,7 +90,7 @@
                                     </div>
                                     <div class="text">
                                         <p>
-                                            Maquillage jour -> 22€ </p>
+                                            Beauty and go jour -> 22€ </p>
                                     </div>
                                 </li>
                                 <li>
@@ -92,7 +98,7 @@
                                         <span class="fa fa-check"></span>
                                     </div>
                                     <div class="text">
-                                        <p>Maquillage soirée -> 27€</p>
+                                        <p>Beauty and go soirée -> 27€</p>
                                     </div>
                                 </li>
                                 <li>
@@ -100,7 +106,7 @@
                                         <span class="fa fa-check"></span>
                                     </div>
                                     <div class="text">
-                                        <p>Maquillage mariée -> 39€ </p>
+                                        <p>Beauty and go mariée -> 39€ </p>
                                     </div>
                                 </li>
                                 <div style="margin-top: 30px;" class="spa-special__btn-box">
@@ -116,4 +122,4 @@
     <!--Services Details Two End-->
 
 <?php $content = ob_get_clean() ?>
-<?php require_once 'template.php' ?>
+<?php require_once './views/template.php' ?>

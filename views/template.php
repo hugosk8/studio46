@@ -94,9 +94,10 @@
                                         <li><a href="<?= URL ?>?p=kera-visage-sur-mesure">Kera visage sur mesure</a></li>
                                         <li><a href="<?= URL ?>?p=kera-facialisme">Kera facialisme</a></li>
                                         <li><a href="<?= URL ?>?p=kera-visage-high-tech">Kera visage high tech</a></li>
+                                        <li><a href="<?= URL ?>?p=beauty-and-go">Beauty and go</a></li>
                                         <li><a href="<?= URL ?>?p=kera-corps">kera corps</a></li>
                                         <li><a href="<?= URL ?>?p=kera-experience">Kera experience</a></li>
-                                        <li><a href="<?= URL ?>?p=bronzage">Kera minceur</a></li>
+                                        <li><a href="<?= URL ?>?p=kera-minceur">Kera minceur</a></li>
                                         <li><a href="<?= URL ?>?p=kera-bronz">Kera bronz'</a></li>
                                         <li><a href="<?= URL ?>?p=kera-epil">Kera epil'</a></li>
                                         <li><a href="<?= URL ?>?p=programme-keractive">Le programme Ker'active</a></li>

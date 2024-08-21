@@ -29,31 +29,37 @@
                     <div class="services-details-two__category">
                         <ul class="services-details-two__category-list list-unstyled">
                             <li class="active">
-                                <a href="<?= URL ?>?p=soins-du-visage">Kera visage sur mesure<i class="fa fa-angle-right"></i></a>
+                                <a href="<?= URL ?>?p=kera-visage-sur-mesure">Kera visage sur mesure<i class="fa fa-angle-right"></i></a>
                             </li>
                             <li>
-                                <a href="<?= URL ?>?p=soins-du-corps">Soins du corps<i class="fa fa-angle-right"></i></a>
+                                <a href="<?= URL ?>?p=kera-facialisme">Kera facialisme<i class="fa fa-angle-right"></i></a>
                             </li>
                             <li>
-                                <a href="<?= URL ?>?p=soins-des-mains-et-des-pieds">Soins des mains et des pieds<i class="fa fa-angle-right"></i></a>
+                                <a href="<?= URL ?>?p=kera-visage-high-tech">Kera visage high tech<i class="fa fa-angle-right"></i></a>
                             </li>
                             <li>
-                                <a href="<?= URL ?>?p=amincissement">Amincissement<i class="fa fa-angle-right"></i></a>
+                                <a href="<?= URL ?>?p=beauty-and-go">Beauty and go<i class="fa fa-angle-right"></i></a>
                             </li>
                             <li>
-                                <a href="<?= URL ?>?p=maquillage">Maquillage<i class="fa fa-angle-right"></i></a>
+                                <a href="<?= URL ?>?p=kera-corps">kera corps<i class="fa fa-angle-right"></i></a>
                             </li>
                             <li>
-                                <a href="<?= URL ?>?p=beaute-du-regard">Beauté du regard<i class="fa fa-angle-right"></i></a>
+                                <a href="<?= URL ?>?p=kera-experience">Kera experience<i class="fa fa-angle-right"></i></a>
                             </li>
                             <li>
-                                <a href="<?= URL ?>?p=bronzage">Bronzage<i class="fa fa-angle-right"></i></a>
+                                <a href="<?= URL ?>?p=kera-minceur">Kera minceur<i class="fa fa-angle-right"></i></a>
                             </li>
                             <li>
-                                <a href="<?= URL ?>?p=aquabike">Aquabike<i class="fa fa-angle-right"></i></a>
+                                <a href="<?= URL ?>?p=kera-bronz">Kera bronz'<i class="fa fa-angle-right"></i></a>
                             </li>
                             <li>
-                                <a href="<?= URL ?>?p=epilation">Epilation<i class="fa fa-angle-right"></i></a>
+                                <a href="<?= URL ?>?p=kera-epil">Kera epil'<i class="fa fa-angle-right"></i></a>
+                            </li>
+                            <li>
+                                <a href="<?= URL ?>?p=programme-keractive">Le programme Ker'active<i class="fa fa-angle-right"></i></a>
+                            </li>
+                            <li>
+                                <a href="<?= URL ?>?p=programme-kera-performance">Le programme Kera performance<i class="fa fa-angle-right"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -276,4 +282,4 @@
 <!--Services Details Two End-->
 
 <?php $content = ob_get_clean() ?>
-<?php require_once 'template.php' ?>
+<?php require_once './views/template.php' ?>
