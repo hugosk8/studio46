@@ -1,10 +1,9 @@
 <?php ob_start() ?>
 <?php $metaDescription = "Révélez votre éclat avec nos Kera visage sur mesure personnalisés. Profitez d'une expérience relaxante et revitalisante dès aujourd'hui : soin spiruline, soin de saison.." ?>
-<?php $title = "Studio 46 | Kera visage sur mesure" ?>
+<?php $title = "Maison Kera | Kera visage sur mesure" ?>
 <!--Page Header Start-->
 <section class="page-header">
-    <div class="page-header__bg" style="background-image: url(assets/images/studio46/breadcrumbs/soins-du-visage.webp);">
-    </div>
+    <div class="page-header__bg" style="background-image: url(assets/images/studio46/breadcrumbs/soins-du-visage.webp);"></div>
     <div class="container">
         <div class="page-header__inner">
             <ul class="thm-breadcrumb list-unstyled">
@@ -28,39 +27,20 @@
                 <div class="services-details-two__left">
                     <div class="services-details-two__category">
                         <ul class="services-details-two__category-list list-unstyled">
-                            <li class="active">
-                                <a href="<?= URL ?>?p=kera-visage-sur-mesure">Kera visage sur mesure<i class="fa fa-angle-right"></i></a>
-                            </li>
-                            <li>
-                                <a href="<?= URL ?>?p=kera-facialisme">Kera facialisme<i class="fa fa-angle-right"></i></a>
-                            </li>
-                            <li>
-                                <a href="<?= URL ?>?p=kera-visage-high-tech">Kera visage high tech<i class="fa fa-angle-right"></i></a>
-                            </li>
-                            <li>
-                                <a href="<?= URL ?>?p=beauty-and-go">Beauty and go<i class="fa fa-angle-right"></i></a>
-                            </li>
-                            <li>
-                                <a href="<?= URL ?>?p=kera-corps">kera corps<i class="fa fa-angle-right"></i></a>
-                            </li>
-                            <li>
-                                <a href="<?= URL ?>?p=kera-experience">Kera experience<i class="fa fa-angle-right"></i></a>
-                            </li>
-                            <li>
-                                <a href="<?= URL ?>?p=kera-minceur">Kera minceur<i class="fa fa-angle-right"></i></a>
-                            </li>
-                            <li>
-                                <a href="<?= URL ?>?p=kera-bronz">Kera bronz'<i class="fa fa-angle-right"></i></a>
-                            </li>
-                            <li>
-                                <a href="<?= URL ?>?p=kera-epil">Kera epil'<i class="fa fa-angle-right"></i></a>
-                            </li>
-                            <li>
-                                <a href="<?= URL ?>?p=programme-keractive">Le programme Ker'active<i class="fa fa-angle-right"></i></a>
-                            </li>
-                            <li>
-                                <a href="<?= URL ?>?p=programme-kera-performance">Le programme Kera performance<i class="fa fa-angle-right"></i></a>
-                            </li>
+                            <li class="active"><a href="<?= URL ?>?p=kera-visage-sur-mesure">Kera visage sur mesure<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=kera-facialisme">Kera facialisme<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=kera-visage-high-tech">Kera visage high tech<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=beauty-and-go">Beauty and go<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=kera-corps">kera corps<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=kera-experience">Kera experience<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=kera-minceur">Kera minceur<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=kera-bronz">Kera bronz'<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=kera-epil">Kera epil'<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=kera-mani">Kera mani<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=kera-pedi">Kera pedi<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=kera-eyes">Kera'eyes<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=programme-keractive">Le programme Ker'active<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=programme-kera-performance">Le programme Kera performance<i class="fa fa-angle-right"></i></a></li>
                         </ul>
                     </div>
                     <div class="services-details-two__help-line">
@@ -81,7 +61,7 @@
                 <div class="services-details-two__right">
 
                     <h3 class="services-details-two__title-1">Kera visage sur mesure</h3>
-                    <p class="services-details-two__text-1">Plongez dans un univers de détente et de bien-être pour votre visage au Studio 46 ! Offrez à votre peau un moment d'évasion et de plaisir grâce à nos Kera visage sur mesure et du corps d'exception. Nous vous invitons à découvrir toutes nos prestations directement en institut, où notre équipe attentionnée vous accueillera avec le sourire</p>
+                    <p class="services-details-two__text-1">Plongez dans un univers de détente et de bien-être pour votre visage au Maison Kera ! Offrez à votre peau un moment d'évasion et de plaisir grâce à nos Kera visage sur mesure et du corps d'exception. Nous vous invitons à découvrir toutes nos prestations directement en institut, où notre équipe attentionnée vous accueillera avec le sourire</p>
 
                     <div class="services-details-two__faq">
                         <div class="accrodion-grp" data-grp-name="faq-one-accrodion">

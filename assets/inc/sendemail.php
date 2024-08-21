@@ -10,7 +10,7 @@ define("SMTP_PASSWORD", "eozt hfyl dbnx pjvz"); // read documentations
 
 
 // Define Recipent Info ||  Who will get this email?
-define("RECIPIENT_NAME", "Studio 46");
+define("RECIPIENT_NAME", "Maison Kera");
 define("RECIPIENT_EMAIL", "contact@studio46.fr");
 
 

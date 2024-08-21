@@ -1,6 +1,7 @@
 <?php ob_start() ?>
 <?php $metaDescription = "Pour des renseignements ou réservations, contactez-nous au 03.21.23.40.30. Réponse rapide assurée !"?>
-<?php $title = "Studio 46 | Nous contacter" ?>
+<?php $title = "Maison Kera | Nous contacter" ?>
+
 <!--Page Header Start-->
 <section class="page-header">
     <div class="page-header__bg" style="background-image: url(assets/images/studio46/image-index.webp);">

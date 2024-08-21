@@ -1,10 +1,9 @@
 <?php ob_start() ?>
 <?php $metaDescription = "Découvrez nos soins amincissants de pointe pour sculpter votre silhouette. Transformez-vous avec des traitements experts. Réservez dès maintenant : séance LPB Alliance" ?>
-<?php $title = "Studio 46 | Programme ker'active" ?>
+<?php $title = "Maison Kera | Programme ker'active" ?>
 <!--Page Header Start-->
 <section class="page-header">
-    <div class="page-header__bg" style="background-image: url(assets/images/studio46/breadcrumbs/amincissement.webp);">
-    </div>
+    <div class="page-header__bg" style="background-image: url(assets/images/studio46/breadcrumbs/extension-de-cils.webp);"></div>
     <div class="container">
         <div class="page-header__inner">
             <ul class="thm-breadcrumb list-unstyled">
@@ -28,36 +27,20 @@
                 <div class="services-details-two__left">
                     <div class="services-details-two__category">
                         <ul class="services-details-two__category-list list-unstyled">
-                            <li>
-                                <a href="<?= URL ?>?p=kera-visage-sur-mesure">Kera visage sur mesure<i class="fa fa-angle-right"></i></a>
-                            </li>
-                            <li>
-                                <a href="<?= URL ?>?p=kera-facialisme">Kera facialisme<i class="fa fa-angle-right"></i></a>
-                            </li>
-                            <li>
-                                <a href="<?= URL ?>?p=kera-visage-high-tech">Kera visage high tech<i class="fa fa-angle-right"></i></a>
-                            </li>
-                            <li>
-                                <a href="<?= URL ?>?p=kera-corps">kera corps<i class="fa fa-angle-right"></i></a>
-                            </li>
-                            <li>
-                                <a href="<?= URL ?>?p=kera-experience">Kera experience<i class="fa fa-angle-right"></i></a>
-                            </li>
-                            <li>
-                                <a href="<?= URL ?>?p=bronzage">Kera minceur<i class="fa fa-angle-right"></i></a>
-                            </li>
-                            <li>
-                                <a href="<?= URL ?>?p=kera-bronz">Kera bronz<i class="fa fa-angle-right"></i></a>
-                            </li>
-                            <li>
-                                <a href="<?= URL ?>?p=kera-epil">Kera epil'<i class="fa fa-angle-right"></i></a>
-                            </li>
-                            <li class="active">
-                                <a href="<?= URL ?>?p=programme-keractive">Le programme Ker'active<i class="fa fa-angle-right"></i></a>
-                            </li>
-                            <li>
-                                <a href="<?= URL ?>?p=programme-kera-performance">Le programme Kera performance<i class="fa fa-angle-right"></i></a>
-                            </li>
+                            <li><a href="<?= URL ?>?p=kera-visage-sur-mesure">Kera visage sur mesure<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=kera-facialisme">Kera facialisme<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=kera-visage-high-tech">Kera visage high tech<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=beauty-and-go">Beauty and go<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=kera-corps">kera corps<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=kera-experience">Kera experience<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=kera-minceur">Kera minceur<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=kera-bronz">Kera bronz'<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=kera-epil">Kera epil'<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=kera-mani">Kera mani<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=kera-pedi">Kera pedi<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=kera-eyes">Kera'eyes<i class="fa fa-angle-right"></i></a></li>
+                            <li class="active"><a href="<?= URL ?>?p=programme-keractive">Le programme Ker'active<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=programme-kera-performance">Le programme Kera performance<i class="fa fa-angle-right"></i></a></li>
                         </ul>
                     </div>
                     <div class="services-details-two__help-line">

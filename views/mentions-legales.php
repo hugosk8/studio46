@@ -1,12 +1,12 @@
 <?php ob_start() ?>
 <?php $metaDescription = "Mentions legales" ?>
-<?php $title = "Studio 46 | Mentions legales" ?>
+<?php $title = "Maison Kera | Mentions legales" ?>
 
 <div class="mention">
-    <h1>Mentions légales STUDIO46</h1>
+    <h1>Mentions légales Maison Kera</h1>
     <div class="mentionBlocs">
         <div>
-            <h2 class="mentionHead" >Studio46</h2>
+            <h2 class="mentionHead" >Maison Kera</h2>
             <p>FORME : SARL unipersonnelle</p>
             <p>SIRET : 52291894500018</p>
             <p>CAPITAL : 10 000€</p>

@@ -1,19 +1,19 @@
 <?php ob_start() ?>
 <?php $metaDescription = "Découvrez l’élégance et la sérénité à notre institut de beauté. Expérience unique avec des soins de qualité : soins du visage, du corps, maquillage, extension de cils.." ?>
-<?php $title = "Studio 46 | Accueil" ?>
+<?php $title = "Maison Kera | Accueil" ?>
         <!--Main Slider Start-->
         <section class="main-slider-two">
             <div class="swiper-container thm-swiper__slider">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                    <div class="image-layer-two" style="background-image: url(assets/images/studio46/breadcrumbs/vivez-une-exp.webp); background-position: cover;"></div>
+                    <div class="image-layer-two" style="background-image: url(assets/images/studio46/index/breadcrumb2.png); background-position: cover;"></div>
                         <!-- /.image-layer -->
 
                         <div class="container">
                             <div class="row">
                                 <div class="col-xl-12">
                                     <div class="main-slider-two__content">
-                                        <p class="main-slider-two__sub-title">Studio 46</p>
+                                        <p class="main-slider-two__sub-title">Maison Kera</p>
                                         <h2 class="main-slider-two__title">Votre centre d’esthétique<br> </h2>
                                         <h3 class="subline main-slider-two__btn-box">À deux pas du beffroi</h3>
                                         <div class="main-slider-two__btn-box">
@@ -48,7 +48,7 @@
                     <div class="section-title text-left">
                         <h2 class="section-title__title">Qui sommes-nous?</h2>
                     </div>
-                    <p class="welcome-one__text">Bienvenue dans notre institut de beauté, où la confiance se mêle à l’excellence. Découvrez nos soins et des résultats éblouissants pour sublimer votre beauté. Faites nous confiance pour vous offrir une expérience inoubliable et un bien être absolu. Le Studio 46 est un institut de beauté depuis plus de 20 ans, avec 4 passionnées spécialisées dans les soins du visage, les soins du corps, maquillage, les extensions de cils.. .</p>
+                    <p class="welcome-one__text">Bienvenue dans notre institut de beauté, où la confiance se mêle à l’excellence. Découvrez nos soins et des résultats éblouissants pour sublimer votre beauté. Faites nous confiance pour vous offrir une expérience inoubliable et un bien être absolu. Le Maison Kera est un institut de beauté depuis plus de 20 ans, avec 4 passionnées spécialisées dans les soins du visage, les soins du corps, maquillage, les extensions de cils.. .</p>
                 </div>
             </div>
         </div>
@@ -64,7 +64,7 @@
             <div class="col-xl-6 col-lg-6 m-auto">
                 <div class="video-one__left">
                     <div class="section-title text-left">
-                        <h2 class="section-title__title">Vivez une expérience sans pareil au Studio 46</h2>
+                        <h2 class="section-title__title">Vivez une expérience sans pareil au Maison Kera</h2>
                     </div>
                 </div>
             </div>
@@ -75,31 +75,37 @@
                             <div class="icon">
                                 <span class="fa fa-check"></span>
                             </div>
-                            <p class="text"><a href="<?= URL ?>?p=soins-du-visage">Soins du visage</a></p>
+                            <p class="text"><a href="<?= URL ?>?p=kera-visage-sur-mesure">Kera visage sur mesure</a></p>
                         </li>
                         <li>
                             <div class="icon">
                                 <span class="fa fa-check"></span>
                             </div>
-                            <p class="text"><a href="<?= URL ?>?p=soins-du-corps">Soins du corps</a></p>
+                            <p class="text"><a href="<?= URL ?>?p=kera-facialisme">Kera facialisme</a></p>
                         </li>
                         <li>
                             <div class="icon">
                                 <span class="fa fa-check"></span>
                             </div>
-                            <p class="text"><a href="<?= URL ?>?p=soins-des-mains-et-des-pieds">Soins des mains et des pieds</a></p>
+                            <p class="text"><a href="<?= URL ?>?p=kera-visage-high-tech">Kera visage high tech</a></p>
                         </li>
                         <li>
                             <div class="icon">
                                 <span class="fa fa-check"></span>
                             </div>
-                            <p class="text"><a href="<?= URL ?>?p=amincissement">Amincissement</a></p>
+                            <p class="text"><a href="<?= URL ?>?p=beauty-and-go">Beauty and go</a></p>
                         </li>
                         <li>
                             <div class="icon">
                                 <span class="fa fa-check"></span>
                             </div>
-                            <p class="text"><a href="<?= URL ?>?p=maquillage">Maquillage</a></p>
+                            <p class="text"><a href="<?= URL ?>?p=kera-corps">Kera corps</a></p>
+                        </li>
+                        <li>
+                            <div class="icon">
+                                <span class="fa fa-check"></span>
+                            </div>
+                            <p class="text"><a href="<?= URL ?>?p=kera-experience">Kera experience</a></p>
                         </li>
                     </ul>
                     <ul class="video-one__points video-one__points-2 list-unstyled">
@@ -107,25 +113,49 @@
                             <div class="icon">
                                 <span class="fa fa-check"></span>
                             </div>
-                            <p class="text"><a href="<?= URL ?>?p=beaute-du-regard">Beauté du regard</a></p>
+                            <p class="text"><a href="<?= URL ?>?p=kera-minceur">Kera minceur</a></p>
                         </li>
                         <li>
                             <div class="icon">
                                 <span class="fa fa-check"></span>
                             </div>
-                            <p class="text"><a href="<?= URL ?>?p=bronzage">Bronzage</a></p>
+                            <p class="text"><a href="<?= URL ?>?p=kera-bronz">Kera bronz'</a></p>
                         </li>
                         <li>
                             <div class="icon">
                                 <span class="fa fa-check"></span>
                             </div>
-                            <p class="text"><a href="<?= URL ?>?p=aquabike">Aquabike</a></p>
+                            <p class="text"><a href="<?= URL ?>?p=kera-epil">Kera epil'</a></p>
                         </li>
                         <li>
                             <div class="icon">
                                 <span class="fa fa-check"></span>
                             </div>
-                            <p class="text"><a href="<?= URL ?>?p=epilation">Epilation</a></p>
+                            <p class="text"><a href="<?= URL ?>?p=kera-mani">Kera mani</a></p>
+                        </li>
+                        <li>
+                            <div class="icon">
+                                <span class="fa fa-check"></span>
+                            </div>
+                            <p class="text"><a href="<?= URL ?>?p=kera-pedi">Kera pedi</a></p>
+                        </li>
+                        <li>
+                            <div class="icon">
+                                <span class="fa fa-check"></span>
+                            </div>
+                            <p class="text"><a href="<?= URL ?>?p=kera-eyes">Kera'eyes</a></p>
+                        </li>
+                        <li>
+                            <div class="icon">
+                                <span class="fa fa-check"></span>
+                            </div>
+                            <p class="text"><a href="<?= URL ?>?p=programme-keractive">Le programme Ker'active</a></p>
+                        </li>
+                        <li>
+                            <div class="icon">
+                                <span class="fa fa-check"></span>
+                            </div>
+                            <p class="text"><a href="<?= URL ?>?p=programme-kera-performance">Le programme Kera performance</a></p>
                         </li>
                     </ul>
                 </div>
@@ -264,7 +294,7 @@
                             <p class="testimonial-one__text-2">Très bel accueil, esthéticiennes sympathiques, un excellent soin du visage Thalgo ☺️ Endroit propre et relaxant, je recommande !</p>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-img">
-                                    <img src="assets/images/studio46/pictos-avis/picto1.svg" alt="pictogramme utilisatrice">
+                                    <img src="assets/images/studio46/pictos-avis/picto1.svg" class="picto" alt="pictogramme utilisatrice">
                                 </div>
                                 <div class="testimonial-one__content">
                                     <h3 class="testimonial-one__client-name">Clarisse Gautier</h3>
@@ -291,7 +321,7 @@
                             <p class="testimonial-one__text-2">Super pro et super massage je recommande</p>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-img">
-                                    <img src="assets/images/studio46/pictos-avis/picto2.svg" alt="pictogramme utilisatrice">
+                                    <img src="assets/images/studio46/pictos-avis/picto2.svg" class="picto" alt="pictogramme utilisatrice">
                                 </div>
                                 <div class="testimonial-one__content">
                                     <h3 class="testimonial-one__client-name">Segolene Gruet</h3>
@@ -315,10 +345,10 @@
                                 <span class="fa fa-star"></span>
                                 <span class="fa fa-star"></span>
                             </div>
-                            <p class="testimonial-one__text-2">Merci Studio 46 !!! Je viens d’y aller pour l’extension de mes cils et j’adore le résultat. Personnel très pro et très douce. À très vite</p>
+                            <p class="testimonial-one__text-2">Merci Maison Kera !!! Je viens d’y aller pour l’extension de mes cils et j’adore le résultat. Personnel très pro et très douce. À très vite</p>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-img">
-                                    <img src="assets/images/studio46/pictos-avis/picto3.svg" alt="pictogramme utilisatrice">
+                                    <img src="assets/images/studio46/pictos-avis/picto3.svg" class="picto" alt="pictogramme utilisatrice">
                                 </div>
                                 <div class="testimonial-one__content">
                                     <h3 class="testimonial-one__client-name">Bèatrice Suret</h3>
@@ -400,7 +430,7 @@
             <div class="col-xl-2 col-lg-4 col-md-6">
                 <div class="instagram__single">
                     <div class="instagram__img">
-                        <img src="assets/images/studio46/photo-insta/photo_1.webp" alt="Photo de l’intérieur de l’institut Studio 46, laissant apparaitre de beaux escaliers en bois">
+                        <img src="assets/images/studio46/photo-insta/photo_1.webp" alt="Photo de l’intérieur de l’institut Maison Kera, laissant apparaitre de beaux escaliers en bois">
                         <div class="instagram__img-icon">
                             <a href="https://www.instagram.com/studio46.arras/"><span class="fab fa-instagram"></span></a>
                         </div>

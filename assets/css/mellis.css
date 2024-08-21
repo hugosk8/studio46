@@ -224,6 +224,20 @@ ul {
   margin-bottom: 51px;
 }
 
+.section-title.about {
+  margin-bottom: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.section-title.about p {
+  text-align: center;
+  font-size: 18px;
+}
+
 .section-title__tagline {
   position: relative;
   display: inline-block;
@@ -2489,11 +2503,11 @@ ul {
   position: relative;
   display: block;
   margin-left: 70px;
-  margin-top: 5rem;
 }
 
 .welcome-one__right .section-title {
   margin-bottom: 38px;
+  margin-top: 10px;
 }
 
 .welcome-one__points {
@@ -2859,7 +2873,7 @@ p.services-one__text {
 .video-one__right {
   position: relative;
   display: flex;
-  margin-left: 100px;
+  margin-left: 50px;
   margin-top: -8px;
 }
 
@@ -3228,6 +3242,15 @@ p.services-one__text {
   padding: 60px 60px 60px;
 }
 
+.testimonial-one__single.about {
+  position: relative;
+  display: block;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.05);
+  padding: 40px 40px 30px;
+  border-radius: 16px;
+}
+
 .testimonial-one__icon-quote {
   position: absolute;
   top: 52px;
@@ -3321,10 +3344,14 @@ p.services-one__text {
   border-radius: 50%;
 }
 
+
 .testimonial-one__content {
   position: relative;
   display: block;
   margin-left: 20px;
+  min-height: 105px;
+  margin: auto;
+  text-align: center;
 }
 
 .testimonial-one__client-name {
@@ -3354,10 +3381,19 @@ p.services-one__text {
   visibility: visible;
 }
 
-.owl-carousel .owl-item img {
+.owl-carousel .owl-item img.picto {
   display: block;
   width: 100%;
   height: 5em;
+}
+
+.owl-carousel .owl-item img.about {
+  border-radius: 12px;
+}
+
+.owl-carousel .owl-item p.about {
+  font-size: 12px;
+  line-height: 20px;
 }
 
 /*--------------------------------------------------------------
@@ -4276,6 +4312,10 @@ footer img {
 
 .about-one__right .section-title {
   margin-bottom: 32px;
+}
+
+.section-title img {
+  width: 150px;
 }
 
 .about-one__points {
@@ -6695,6 +6735,12 @@ footer img {
   color: var(--mellis-white);
   line-height: 50px;
   margin-top: 15px;
+}
+
+.page-header__inner p {
+  color: rgb(188, 177, 170);
+  margin-top: 25px;
+  font-size: 18px;
 }
 
 .thm-breadcrumb {
@@ -9383,3 +9429,10 @@ a._0001 {
 /*--------------------------------------------------------------
 # Boxed Version
 --------------------------------------------------------------*/
+
+/* Qui sommes nous ? */
+.subText {
+  color: #bcbcbc;
+  font-size: 13px;
+  line-height: 10px;
+}

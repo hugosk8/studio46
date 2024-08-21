@@ -21,7 +21,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="<?= (isset($metaDescription)) ? $metaDescription : 'Découvrez l’élégance et la sérénité à notre institut de beauté. Expérience unique avec des soins de qualité : soins du visage, du corps, maquillage, extension de cils..' ?>" />
     <title>
-        <?= (isset($title)) ? $title : 'Studio 46' ?>
+        <?= (isset($title)) ? $title : 'Maison Kera' ?>
     </title>
 
     <!-- favicons Icons -->
@@ -79,15 +79,13 @@
                     <div class="main-menu__wrapper-inner">
                         <div class="main-menu__left">
                             <div class="main-menu__logo">
-                                <a href="<?= URL ?>?p=accueil"><img src="assets/images/studio46/logo.webp" alt="logo studio46" class="header-logo"></a>
+                                <a href="<?= URL ?>?p=accueil"><img src="assets/images/studio46/logo_maison_Kera.png" alt="logo studio46" class="header-logo"></a>
                             </div>
                         </div>
                         <div class="main-menu__main-menu-box">
                             <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
                             <ul class="main-menu__list">
-                                <li>
-                                    <a href="<?= URL ?>?p=accueil">Accueil </a>
-                                </li>
+                                <li><a href="<?= URL ?>?p=accueil">Accueil</a></li>
                                 <li class="dropdown">
                                     <a href="<?= URL ?>?p=prestations">Nos prestations</a>
                                     <ul>
@@ -100,13 +98,15 @@
                                         <li><a href="<?= URL ?>?p=kera-minceur">Kera minceur</a></li>
                                         <li><a href="<?= URL ?>?p=kera-bronz">Kera bronz'</a></li>
                                         <li><a href="<?= URL ?>?p=kera-epil">Kera epil'</a></li>
+                                        <li><a href="<?= URL ?>?p=kera-mani">Kera mani</a></li>
+                                        <li><a href="<?= URL ?>?p=kera-pedi">Kera pedi</a></li>
+                                        <li><a href="<?= URL ?>?p=kera-eyes">Kera'eyes</a></li>
                                         <li><a href="<?= URL ?>?p=programme-keractive">Le programme Ker'active</a></li>
                                         <li><a href="<?= URL ?>?p=programme-kera-performance">Le programme Kera performance</a></li>
                                     </ul>
                                 </li>
-                                <li>
-                                    <a href="<?= URL ?>?p=contact">Contact</a>
-                                </li>
+                                <li><a href="<?= URL ?>?p=qui-sommes-nous">Qui sommes nous ?</a></li>
+                                <li><a href="<?= URL ?>?p=contact">Contact</a></li>
                             </ul>
                         </div>
                     </div>
@@ -130,7 +130,7 @@
                         <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                             <div class="footer-widget__column footer-widget__contact-box">
                                 <div class="footer-widget__contact">
-                                    <img src="assets/images/studio46/logo_studio46_carre.webp" alt="flowers">
+                                    <img src="assets/images/studio46/logo_maison_Kera.png" alt="flowers">
                                 </div>
                             </div>
                         </div>
@@ -188,7 +188,7 @@
                 <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
                 <div class="logo-box">
-                    <a href="<?= URL ?>?p=accueil" aria-label="logo image"><img src="assets/images/studio46/logo.webp" width="90" alt="logo studio 46" /></a>
+                    <a href="<?= URL ?>?p=accueil" aria-label="logo image"><img src="assets/images/studio46/logo_maison_Kera.png" width="90" alt="logo Maison Kera" /></a>
                 </div>
                 <!-- /.logo-box -->
                 <div class="mobile-nav__container"></div>

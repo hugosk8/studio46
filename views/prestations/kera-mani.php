@@ -1,6 +1,6 @@
 <?php ob_start() ?>
-<?php $metaDescription = "Dites adieu aux poils indésirables avec nos Kera bronz' professionnelles. Une peau lisse et soyeuse vous attend. Réservez votre séance dès maintenant : sourcils, visage, jambes, maillot.."?>
-<?php $title = "Maison Kera | Kera bronz'" ?>
+<?php $metaDescription = "Dites adieu aux poils indésirables avec nos Kera mani professionnelles. Une peau lisse et soyeuse vous attend. Réservez votre séance dès maintenant : sourcils, visage, jambes, maillot.."?>
+<?php $title = "Maison Kera | Kera mani" ?>
 
 <!--Page Header Start-->
 <section class="page-header">
@@ -12,9 +12,9 @@
                 <li><span>/</span></li>
                 <li><a href="services.html">Nos prestations</a></li>
                 <li><span>/</span></li>
-                <li>Kera bronz'</li>
+                <li>Kera mani</li>
             </ul>
-            <h2>Kera bronz'</h2>
+            <h2>Kera mani</h2>
         </div>
     </div>
 </section>
@@ -31,13 +31,13 @@
                             <li><a href="<?= URL ?>?p=kera-visage-sur-mesure">Kera visage sur mesure<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=kera-facialisme">Kera facialisme<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=kera-visage-high-tech">Kera visage high tech<i class="fa fa-angle-right"></i></a></li>
-                            <li><a href="<?= URL ?>?p=beauty-and-go">Beauty and go<i class="fa fa-angle-right"></i></a></li>
+                            <li ><a href="<?= URL ?>?p=beauty-and-go">Beauty and go<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=kera-corps">kera corps<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=kera-experience">Kera experience<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=kera-minceur">Kera minceur<i class="fa fa-angle-right"></i></a></li>
-                            <li class="active"><a href="<?= URL ?>?p=kera-bronz">Kera bronz'<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=kera-bronz">kera bronz'<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=kera-epil">Kera epil'<i class="fa fa-angle-right"></i></a></li>
-                            <li><a href="<?= URL ?>?p=kera-mani">Kera mani<i class="fa fa-angle-right"></i></a></li>
+                            <li class="active"><a href="<?= URL ?>?p=kera-mani">Kera mani<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=kera-pedi">Kera pedi<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=kera-eyes">Kera'eyes<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=programme-keractive">Le programme Ker'active<i class="fa fa-angle-right"></i></a></li>
@@ -61,14 +61,14 @@
 
             <div class="col-xl-8 col-lg-7">
                     <div class="services-details-two__right">
-                        <h3 class="services-details-two__title-1">Kera bronz'</h3>
+                        <h3 class="services-details-two__title-1">Kera mani</h3>
                         <p class="services-details-two__text-1">Nous mettons un point d'honneur à utiliser des produits de qualité, qui respectent votre peau et minimisent les irritations. Notre équipe veille à votre confort tout au long de la séance, pour que vous ressortiez satisfaite et avec une peau lisse et douce.</p>
                         
                         <div class="services-details-two__faq">
                             <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
                                 <div class="accrodion active">
                                     <div class="accrodion-title">
-                                        <h4>Kera bronz'</h4>
+                                        <h4>Kera mani</h4>
                                     </div>
                                     <div class="accrodion-content">
                                         <div class="inner">

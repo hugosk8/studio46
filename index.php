@@ -40,6 +40,15 @@ switch ($page) {
     case 'kera-epil':
         require_once 'views/prestations/kera-epil.php';
         break;
+    case 'kera-mani':
+        require_once 'views/prestations/kera-mani.php';
+        break;
+    case 'kera-pedi':
+        require_once 'views/prestations/kera-pedi.php';
+        break;
+    case 'kera-eyes':
+        require_once 'views/prestations/kera-eyes.php';
+        break;
     case 'programme-keractive':
         require_once 'views/prestations/programme-keractive.php';
         break;
@@ -51,6 +60,9 @@ switch ($page) {
         break;
     case 'mentions-legales':
         require_once 'views/mentions-legales.php';
+        break;
+    case 'qui-sommes-nous':
+        require_once 'views/qui-sommes-nous.php';
         break;
     default:
         require 'views/404.php';
