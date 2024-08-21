@@ -16,9 +16,9 @@
 
 /* Manrope Font (monrop) */
 
-h1, h2, h3, h4, h5, h6 {
+/* h1, h2, h3, h4, h5, h6 {
   font-family: 'Manrope', sans-serif !important;
-}
+} */
 
 /*--------------------------------------------------------------
 # Common
@@ -85,6 +85,10 @@ a:visited {
 .services-one__single-inner a:focus,
 .services-one__single-inner a:visited {
   color: black;
+}
+
+h3.services-one__title {
+  font-family: "Libre Baskerville", serif;
 }
 
 .video-one a:hover {
@@ -236,6 +240,7 @@ ul {
 .section-title.about p {
   text-align: center;
   font-size: 18px;
+  margin-top: 20px;
 }
 
 .section-title__tagline {
@@ -255,6 +260,7 @@ ul {
   font-size: 44px;
   line-height: 49px;
   margin-top: 5px;
+  font-family: "Libre Baskerville", serif;
 }
 
 .thm-btn {
@@ -2247,6 +2253,7 @@ ul {
   opacity: .60;
   -webkit-transform: translateY(0) translateX(0);
   transform: translateY(0) translateX(0);
+  font-family: "Libre Baskerville", serif;
 }
 
 .main-slider-two__title {
@@ -2298,6 +2305,11 @@ ul {
   opacity: 1;
   -webkit-transform: translateY(0) translateX(0);
   transform: translateY(0) translateX(0);
+  font-family: "Libre Baskerville", serif;
+}
+
+.main-slider-two .swiper-slide-active .main-slider-two__title {
+  text-transform: uppercase;
 }
 
 .main-slider-two #main-slider-pagination {
@@ -6735,6 +6747,8 @@ footer img {
   color: var(--mellis-white);
   line-height: 50px;
   margin-top: 15px;
+  font-family: "Libre Baskerville", serif;
+  text-transform: uppercase;
 }
 
 .page-header__inner p {
@@ -7194,6 +7208,8 @@ footer img {
   line-height: 44px;
   margin-top: 22px;
   margin-bottom: 21px;
+  font-family: "Libre Baskerville", serif;
+  text-transform: uppercase;
 }
 
 .services-details-two__text-2 {
