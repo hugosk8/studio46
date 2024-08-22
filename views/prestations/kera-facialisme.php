@@ -60,327 +60,55 @@
             </div>
             <div class="col-xl-8 col-lg-7">
                 <div class="services-details-two__right">
-                    <h3 class="services-details-two__title-1">Kera facialisme</h3>
-                    <p class="services-details-two__text-1">Au Maison Kera, nous sommes convaincus que le corps mérite autant d'attention que le visage. C'est pourquoi nous avons élaboré des traitements corporels sur mesure pour vous offrir une expérience de bien-être totale. Nos Kera facialisme sont conçus pour vous apporter relaxation, tonification et une sensation de bien-être profond.</p>
+                    <h3 class="services-details-two__title-1 text-center">Kera facialisme</h3>
+                    <p class="services-details-two__text-1 text-center">Le facialisme est une expertise combinant techniques manuelles pointues, soins ancestraux, manoeuvres liftantes et detox, outils de beauté et merveilles technologiques. Chaque massage visage est un véritable soin sur-mesure</p>
                     
-                    <div class="services-details-two__faq">
-                        <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
-                            <div class="accrodion active">
-                                <div class="accrodion-title">
-                                    <h4>Sauna (en solo, ou duo) </h4>
+                    <div class="inner" style="margin-top: 30px;">
+                        <h4 class="text-center">Stretching Visage</h4>
+                        <p class="mb-3 text-center">Un modelage qui permet de profiter pleinement de nos techniques manuelles efficaces et relaxantes</p>
+                        <ul class="services-details-two__points list-unstyled">
+                            <li class="mb-3">
+                                <div class="icon">
+                                    <span class="fa fa-check"></span>
                                 </div>
-                                <div class="accrodion-content">
-                                    <div class="inner">
-                                        <ul class="services-details-two__points list-unstyled">
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>
-                                                    Séance 1 personne -> 15€ </p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Personne supplémentaire -> 10€</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Sauna en supplément Aquabike, modelage -> 10€ </p>
-                                                </div>
-                                            </li>
-                                            <div style="margin-top: 30px;" class="spa-special__btn-box">
-                                                <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
-                                            </div>
-                                        </ul>
-                                    </div><!-- /.inner -->
+                                <div class="text">
+                                    <h5>Phase 1 :</h5>
+                                    <p>Consultation beauté pour adapter le soin à votre état de peau du moment</p>
                                 </div>
+                            </li>
+                            <li class="mb-3">
+                                <div class="icon">
+                                    <span class="fa fa-check"></span>
+                                </div>
+                                <div class="text">
+                                    <h5>Phase 2 :</h5>
+                                    <p>Pré soin pour mettre en condition le mental et la peau à recevoir le soin</p>
+                                </div>
+                            </li>
+                            <li class="mb-3">
+                                <div class="icon">
+                                    <span class="fa fa-check"></span>
+                                </div>
+                                <div class="text">
+                                    <h5>Phase 3 :</h5>
+                                    <p>Massage adapté, personnalisé prenant en considération l’Holisme *</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="icon">
+                                    <span class="fa fa-check"></span>
+                                </div>
+                                <div class="text">
+                                    <h5>Phase 4 :</h5>
+                                    <p>Accompagnement pour prolonger l’efficacité de votre soin</p>
+                                </div>
+                            </li>
+                            <div style="margin-top: 30px;" class="spa-special__btn-box">
+                                <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
+                                <p>80 min - 110€</p>
                             </div>
-                            <div class="accrodion">
-                                <div class="accrodion-title">
-                                    <h4>Modelage du monde</h4>
-                                </div>
-                                <div class="accrodion-content">
-                                    <div class="inner">
-                                        <ul class="services-details-two__points list-unstyled">
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Californien : relaxant</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Abhyanga : relaxant, enveloppant, énrgisant </p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Balinais : tonifiant, profond, relance la circulation sanguine </p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Suédois : Relaxant, profond, décontractant musculaire</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Mauresque : Enveloppement, profond, drainant</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Pierres chaudes : Drainant, relaxant</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Lomi lomi : Rétablit l’harmonie corps et esprit </p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Shiatsu : Relaxant, énergisant, point de pression profond</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Modelage future maman : relaxant et confortables, adapté aux besoins des futures mamans </p>
-                                                </div>
-                                            </li>
-                                            <div style="margin-top: 30px;" class="spa-special__btn-box">
-                                                <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
-                                            </div>
-                                        </ul>
-                                    </div><!-- /.inner -->
-                                </div>
-                            </div>
-                            <div class="accrodion">
-                                <div class="accrodion-title">
-                                    <h4>Les tarifs</h4>
-                                </div>
-                                <div class="accrodion-content">
-                                    <div class="inner">
-                                        <ul class="services-details-two__points list-unstyled">
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>30 min -> 35€ </p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>45 min -> 55€</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>60 min -> 69€ </p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>75 min -> 85€</p>
-                                                </div>
-                                            </li>
-                                            <div style="margin-top: 30px;" class="spa-special__btn-box">
-                                                <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
-                                            </div>
-                                        </ul>
-                                    </div><!-- /.inner -->
-                                </div>
-                            </div>
-                            <div class="accrodion">
-                                <div class="accrodion-title">
-                                    <h4>Les tarifs privilégiés avec sauna</h4>
-                                </div>
-                                <div class="accrodion-content">
-                                    <div class="inner">
-                                        <ul class="services-details-two__points list-unstyled">
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>30 min 						45€ </p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>45 min -> 55€</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>60 min -> 79€ </p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>75 min -> 95€</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Gommage corps -> 39€</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Escale douceur (1h) -> 69€ </p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Croisière harmonie (1h) -> 80€</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Evasion gourmande (1h30) -> 99€ </p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Rêve des îles (1h45) -> 129€</p>
-                                                </div>
-                                            </li>
-                                            <div style="margin-top: 30px;" class="spa-special__btn-box">
-                                                <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
-                                            </div>
-                                        </ul>
-                                    </div><!-- /.inner -->
-                                </div>
-                            </div>
-                            <div class="accrodion">
-                                <div class="accrodion-title">
-                                    <h4>Rituels de soins</h4>
-                                </div>
-                                <div class="accrodion-content">
-                                    <div class="inner">
-                                        <ul class="services-details-two__points list-unstyled">
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Gommage corps -> 39€ </p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Escale douceur (1h) -> 69€</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Croisière harmonie (1h) -> 80€ </p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Evasion gourmande (1h30) -> 99€</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Rêve des îles (1h45) -> 129€</p>
-                                                </div>
-                                            </li>
-                                            <div style="margin-top: 30px;" class="spa-special__btn-box">
-                                                <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
-                                            </div>
-                                        </ul>
-                                    </div><!-- /.inner -->
-                                </div>
-                            </div>
-                            <p>Forfait personnalisé sur demande
-                                -10% sur l’ensemble des prestations (hors forfait déjà existant)
-                            </p>
-                        </div>
-                    </div>
+                        </ul>
+                    </div><!-- /.inner -->
                 </div>
             </div>
         </div>

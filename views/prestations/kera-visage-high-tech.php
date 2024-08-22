@@ -60,161 +60,146 @@
             </div>
             <div class="col-xl-8 col-lg-7">
                 <div class="services-details-two__right">
-                    <h3 class="services-details-two__title-1">Kera visage high tech</h3>
-                    <p class="services-details-two__text-1">Chez Maison Kera, nous comprenons l'importance d'accorder une attention particulière à vos mains et à vos pieds, car ils sont les gardiens de votre quotidien. C'est pourquoi nous avons élaboré des traitements sur mesure pour les chouchouter et les sublimer.</p>
+                    <h3 class="services-details-two__title-1 text-center">Kera visage high tech</h3>
+                    <p class="services-details-two__text-1 text-center">Chez Maison Kera, nous comprenons l'importance d'accorder une attention particulière à vos mains et à vos pieds, car ils sont les gardiens de votre quotidien. C'est pourquoi nous avons élaboré des traitements sur mesure pour les chouchouter et les sublimer.</p>
                     
                     <div class="services-details-two__faq">
                         <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
                             <div class="accrodion active">
                                 <div class="accrodion-title">
-                                    <h4>Manucure </h4>
+                                    <h4>CONSULTATION OBLIGATOIRE </h4>
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
-                                        <ul class="services-details-two__points list-unstyled">
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Limage + cuticules -> 10€ </p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Manucure simple -> 22€</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Manucure complète -> 41€€</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Manucure + paraffine -> 42€ </p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Soin à la paraffine seule -> 25€</p>
-                                                </div>
-                                            </li>
-                                            <div style="margin-top: 30px;" class="spa-special__btn-box">
-                                                <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
-                                            </div>
-                                        </ul>
+                                        <h6>39€ la séance</h6>
+                                        <p>
+                                            Consultation obligatoire pour vérifier les contre indications
+                                            <br>
+                                            Remboursée dès l’achat d’une cure de soins.
+                                        </p>
                                     </div><!-- /.inner -->
                                 </div>
                             </div>
                             <div class="accrodion">
                                 <div class="accrodion-title">
-                                    <h4>Beauté des pieds</h4>
+                                    <h4>Radio Fréquence</h4>
+                                    <p>Le lifting sans chirurgie</p>
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
-                                        <ul class="services-details-two__points list-unstyled">
+                                        <ul class="services-details-two__points list-unstyled mb-3">
                                             <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Simple -> 30€ </p>
-                                                </div>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
+                                                <div class="text"><p>20min -> 65€</p></div>
                                             </li>
                                             <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Complète -> 49€</p>
-                                                </div>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
+                                                <div class="text"><p>30min -> 85€</p></div>
                                             </li>
                                             <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Beauté des pieds + traitement anti-callosité -> 20€ </p>
-                                                </div>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
+                                                <div class="text"><p>cure de 7 séances -> 10€</p></div>
                                             </li>
                                             <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Traitement anti-callosité seul -> 29€</p>
-                                                </div>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
+                                                <div class="text"><p>cure de 10 séances -> 585€</p></div>
                                             </li>
                                             <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Beauté des pieds + paraffine -> 50€ </p>
-                                                </div>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
+                                                <div class="text"><p>cure de 7 séances -> 535€</p></div>
                                             </li>
                                             <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Soin à la paraffine seul -> 25€</p>
-                                                </div>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
+                                                <div class="text"><p>cure de 10 séances -> 765€</p></div>
                                             </li>
-                                            <div style="margin-top: 30px;" class="spa-special__btn-box">
-                                                <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
-                                            </div>
                                         </ul>
+                                        <p>La technique est révolutionnaire, elle offre un résultat optimal. Non invasive, elle a l'avantage d'être aussi efficace que les injections d'acide hyaluronique ou de Botox, et plus durables.</p>
                                     </div><!-- /.inner -->
                                 </div>
                             </div>
                             <div class="accrodion">
                                 <div class="accrodion-title">
-                                    <h4>Semi-permanent </h4>
+                                    <h4>Peeling Chimique</h4>
+                                    <p>Peau filtrée, lissée, lumineuse</p>
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
-                                        <ul class="services-details-two__points list-unstyled">
+                                        <ul class="services-details-two__points list-unstyled mb-3">
                                             <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
+                                                <div class="text"><p>69€ la séance</p></div>
+                                            </li>
+                                            <li>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
+                                                <div class="text"><p>cure de 4 séances -> 249€</p></div>
+                                            </li>
+                                        </ul>
+                                        <p>Le peeling chimique est une technique utilisée pour réveiller l'éclat de la peau et atténuer les imperfections en ayant une action sur la régénération de la peau et le renouvellement cellulaire.</p>
+                                    </div><!-- /.inner -->
+                                </div>
+                            </div>
+                            <div class="accrodion">
+                                <div class="accrodion-title">
+                                    <h4>LED</h4>
+                                </div>
+                                <div class="accrodion-content">
+                                    <div class="inner">
+                                        <ul class="services-details-two__points list-unstyled mb-3">
+                                            <li>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
+                                                <div class="text"><p>30€ la séance</p></div>
+                                            </li>
+                                            <li>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
+                                                <div class="text"><p>cure de 10 séances -> 270€</p></div>
+                                            </li>
+                                        </ul>
+                                        <p>La LED, selon la couleur choisie, travaille différemment sur les problématiques de peau, telles que l’acné, l’anti-âge, la sensibilité de la peau ou les tâches pigmentaires</p>
+                                    </div><!-- /.inner -->
+                                </div>
+                            </div>
+                            <div class="accrodion">
+                                <div class="accrodion-title">
+                                    <h4>LPG Endermolift</h4>
+                                </div>
+                                <div class="accrodion-content">
+                                    <div class="inner">
+                                        <p>L’Endermologie grâce à sa technologie brevetée Ergolift crée une stimulation cellulaire ciblée qui réveille les fibroblastes également appelés les cellules de jeunesse, il relance ainsi naturellement la production d’acide hyaluronique: +80% ainsi que les fibres de collagène et d’élastine.</p>
+                                        <ul class="services-details-two__points list-unstyled mb-3">
+                                            <li>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
+                                                <div class="text"><p>20min -> 35€</p></div>
+                                            </li>
+                                            <li>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
+                                                <div class="text"><p>30min -> 45€</p></div>
+                                            </li>
+                                            <li class="mb-4">
+                                                <div class="icon"><span class="fa fa-check"></span></div>
+                                                <div class="text"><p>40min -> 60€</p></div>
+                                            </li>
+                                            <li class="mb-4">
                                                 <div class="text">
-                                                    <p>Pose de vernis semi-permanent, limage, cuticules -> 30€ </p>
+                                                    <h5 class="fs-18">Forfait Booster 20min / 30min / 40min :</h5>
+                                                    <p class="fs-14">12 séances + bilan + compléments alimentaires :</p>
+                                                    <ul class="fs-14">
+                                                        <li>20€ au lieu de 458€ (économie de 38€)</li>
+                                                        <li>513€ au lieu de 578€ (économie de 65€) </li>
+                                                        <li>648€ au lieu de 758€ (économie de 110€)</li>
+                                                    </ul>
                                                 </div>
                                             </li>
                                             <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
                                                 <div class="text">
-                                                    <p>Dépose de vernis semi-permanent -> 20€</p>
+                                                    <h5 class="fs-18">Forfait Combo 20min / 30min / 40min :</h5>
+                                                    <p class="fs-14">24 séances + bilan initial et intermédiaire + cosmétique + complément alimentaire :</p>
+                                                    <ul class="fs-14">
+                                                        <li>896€ au lieu de 1034€ (économie de 138€)</li>
+                                                        <li>1082€ au lieu de 1274€ (économie de 192€)</li>
+                                                        <li>1352€ au lieu de 1610€ (économie de 258€)</li>
+                                                    </ul>
                                                 </div>
                                             </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Dépose + pose de vernis semi-permanent -> 40€ </p>
-                                                </div>
-                                            </li>
-                                            <div style="margin-top: 30px;" class="spa-special__btn-box">
-                                                <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
-                                            </div>
                                         </ul>
                                     </div><!-- /.inner -->
                                 </div>

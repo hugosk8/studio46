@@ -60,40 +60,110 @@
             </div>
             <div class="col-xl-8 col-lg-7">
                 <div class="services-details-two__right">
-                    <h3 class="services-details-two__title-1">Beauty and go</h3>
-                    <p class="services-details-two__text-1">Sublimez votre beauté naturelle avec notre service de Beauty and go personnalisé au Maison Kera ! Que ce soit pour une occasion spéciale, un événement important ou simplement pour vous faire plaisir, notre équipe de maquilleurs professionnels est là pour vous offrir un Beauty and go impeccable et sur mesure.</p>
+                    <h3 class="services-details-two__title-1 text-center">Beauty and go</h3>
+                    <p class="services-details-two__text-1 text-center">Petites experiences pour une grand détente</p>
                     
                     <div class="inner" style="margin-top: 30px;">
                         <ul class="services-details-two__points list-unstyled">
-                            <li>
+                            <li class="mb-3">
                                 <div class="icon">
                                     <span class="fa fa-check"></span>
                                 </div>
                                 <div class="text">
-                                    <p>
-                                        Beauty and go jour -> 22€ </p>
+                                    <p>Dos délassant - 39€</p>
                                 </div>
                             </li>
-                            <li>
+                            <li class="mb-3">
                                 <div class="icon">
                                     <span class="fa fa-check"></span>
                                 </div>
                                 <div class="text">
-                                    <p>Beauty and go soirée -> 27€</p>
+                                    <p>Méditation guidée aux essences parfumées et massage crânien - 29€*</p>
                                 </div>
                             </li>
-                            <li>
+                            <li class="mb-3">
                                 <div class="icon">
                                     <span class="fa fa-check"></span>
                                 </div>
                                 <div class="text">
-                                    <p>Beauty and go mariée -> 39€ </p>
+                                    <p>Calluspeeling - 45€</p>
+                                    <span>Soin traitant des callosités</span>
                                 </div>
                             </li>
-                            <div style="margin-top: 30px;" class="spa-special__btn-box">
-                                <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
-                            </div>
+                            <li class="mb-3">
+                                <div class="icon">
+                                    <span class="fa fa-check"></span>
+                                </div>
+                                <div class="text">
+                                    <p>Crânien, reharmonisant - 29€*</p>
+                                </div>
+                            </li>
+                            <li class="mb-3">
+                                <div class="icon">
+                                    <span class="fa fa-check"></span>
+                                </div>
+                                <div class="text">
+                                    <p>Patch yeux / Masque soin - 15€</p>
+                                    <span>Défatiguer le regard / Apporter de l’éclat</span>
+                                </div>
+                            </li>
+                            <li class="mb-3">
+                                <div class="icon">
+                                    <span class="fa fa-check"></span>
+                                </div>
+                                <div class="text">
+                                    <p>Gommage corps - 25€</p>
+                                </div>
+                            </li>
+                            <li class="mb-3">
+                                <div class="icon">
+                                    <span class="fa fa-check"></span>
+                                </div>
+                                <div class="text">
+                                    <p>Soin regard parfait - 25€</p>
+                                    <span>Retrouvez la jeunesse du regard</span>
+                                </div>
+                            </li>
+                            <li class="mb-3">
+                                <div class="icon">
+                                    <span class="fa fa-check"></span>
+                                </div>
+                                <div class="text">
+                                    <p>Sauna dôme - 45€</p>
+                                    <span>4X plus efficace qu’un sauna traditionnel</span>
+                                </div>
+                            </li>
+                            <li class="mb-3">
+                                <div class="icon">
+                                    <span class="fa fa-check"></span>
+                                </div>
+                                <div class="text">
+                                    <p>Sophro masque - 39€</p>
+                                    <span>Séance sophrologie adaptée durant votre soin</span>
+                                </div>
+                            </li>
+                            <li class="mb-3">
+                                <div class="icon">
+                                    <span class="fa fa-check"></span>
+                                </div>
+                                <div class="text">
+                                    <p>Pieds, rééquilibrant - 29€*</p>
+                                </div>
+                            </li>
                         </ul>
+                        <div class="inner heart text-center" style="margin-top: 30px;">
+                            <h4>Coup de coeur</h4>
+                            <p class="bold">PSIO - 19€*</p>
+                            <span>Une expérience pour un bien être instantanné</span>
+                            <p>
+                                LOCATION DOMICILE :<br>
+                                10 jours - 95€ (caution de 300€)<br>
+                                20 jours - 150
+                            </p>
+                        </div>
+                        <div style="margin-top: 30px;" class="spa-special__btn-box">
+                            <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
+                        </div>
                     </div><!-- /.inner -->
                 </div>
             </div>

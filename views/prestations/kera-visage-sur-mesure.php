@@ -60,69 +60,50 @@
             <div class="col-xl-8 col-lg-7">
                 <div class="services-details-two__right">
 
-                    <h3 class="services-details-two__title-1">Kera visage sur mesure</h3>
-                    <p class="services-details-two__text-1">Plongez dans un univers de détente et de bien-être pour votre visage au Maison Kera ! Offrez à votre peau un moment d'évasion et de plaisir grâce à nos Kera visage sur mesure et du corps d'exception. Nous vous invitons à découvrir toutes nos prestations directement en institut, où notre équipe attentionnée vous accueillera avec le sourire</p>
+                    <h3 class="services-details-two__title-1 text-center">Kera visage sur mesure</h3>
+                    <p class="services-details-two__text-1 text-center">Nous visons l’excellence grâce à une nouvelle approche du soin.
+                    Redécouvrez l’institut de beauté comme vous ne l’avez jamais connu.</p>
 
                     <div class="services-details-two__faq">
                         <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
                             <div class="accrodion active">
                                 <div class="accrodion-title">
-                                    <h4>Soins Maria Galland </h4>
+                                    <h4>55 minutes</h4>
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
+                                        <p class="mb-3">Idéal pour un 1er RDV afin de découvrir le concept de la Maison KERA</p>
                                         <ul class="services-details-two__points list-unstyled">
-                                            <li>
+                                            <li class="mb-3">
                                                 <div class="icon">
                                                     <span class="fa fa-check"></span>
                                                 </div>
                                                 <div class="text">
-                                                    <p>
-                                                        Méthode mosaïque modelage (1h30) -> 99€ classique / 139€ Prestige </p>
+                                                    <h5>Phase 1 :</h5>
+                                                    <p>Consultation beauté pour adapter le soin à votre état de peau du moment</p>
                                                 </div>
                                             </li>
-                                            <li>
+                                            <li class="mb-3">
                                                 <div class="icon">
                                                     <span class="fa fa-check"></span>
                                                 </div>
                                                 <div class="text">
-                                                    <p>Méthode Mosaïque modelante + otion D-TOX -> 119€ classique / 139€ Prestige</p>
+                                                    <h5>Phase 2 :</h5>
+                                                    <p>Soin adapté, personnalisé *</p>
                                                 </div>
                                             </li>
-                                            <li>
+                                            <li class="mb-3">
                                                 <div class="icon">
                                                     <span class="fa fa-check"></span>
                                                 </div>
                                                 <div class="text">
-                                                    <p>Soins spécifiques : Soin de saison (1h) -> 49€ Classique / 69€ Prestige </p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Soin D-TOX Peau neuve (1h) -> 49€ Classique / 69€ Prestige</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Option D-TOX (15min) -> 20€ Classique </p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Option Modelant Yeux (20min) -> 29€ Classique / 49€ Prestige</p>
+                                                    <h5>Phase 1 :</h5>
+                                                    <p>Accompagnement pour prolonger l’efficacité de votre soin</p>
                                                 </div>
                                             </li>
                                             <div style="margin-top: 30px;" class="spa-special__btn-box">
                                                 <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
+                                                <p class="price">69€</p>
                                             </div>
                                         </ul>
                                     </div><!-- /.inner -->
@@ -130,53 +111,51 @@
                             </div>
                             <div class="accrodion">
                                 <div class="accrodion-title">
-                                    <h4>Soins Thalgo</h4>
+                                    <h4>80 minutes</h4>
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
+                                        <p class="mb-3">Un soin qui permet de profiter pleinement de nos techniques manuelles efficaces et relaxantes</p>
                                         <ul class="services-details-two__points list-unstyled">
-                                            <li>
+                                            <li class="mb-3">
                                                 <div class="icon">
                                                     <span class="fa fa-check"></span>
                                                 </div>
                                                 <div class="text">
-                                                    <p>Soin fondamental lumière (30min) -> 35€ Classique / 55€ Prestige </p>
+                                                    <h5>Phase 1 :</h5>
+                                                    <p>Consultation beauté pour adapter le soin à votre état de peau du moment</p>
                                                 </div>
                                             </li>
-                                            <li>
+                                            <li class="mb-3">
                                                 <div class="icon">
                                                     <span class="fa fa-check"></span>
                                                 </div>
                                                 <div class="text">
-                                                    <p>Soins Fondamental de la mer (1h) -> 59€ Classique / 79€ Prestige</p>
+                                                    <h5>Phase 2 :</h5>
+                                                    <p>Pré soin pour mettre en condition le mental et la peau à recevoir le soin</p>
                                                 </div>
                                             </li>
-                                            <li>
+                                            <li class="mb-3">
                                                 <div class="icon">
                                                     <span class="fa fa-check"></span>
                                                 </div>
                                                 <div class="text">
-                                                    <p>Soin Spiruline (1h15) -> 65€ Classique / 85€ Prestige </p>
+                                                    <h5>Phase 3 :</h5>
+                                                    <p>Soin adapté, personnalisé prenant en considération l’Holisme *</p>
                                                 </div>
                                             </li>
-                                            <li>
+                                            <li class="mb-3">
                                                 <div class="icon">
                                                     <span class="fa fa-check"></span>
                                                 </div>
                                                 <div class="text">
-                                                    <p>Soin Hyaluprocollagène (1h15) -> 75€ Classique / 95€ Prestige</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Soin silicium (1h30) -> 85€ Classique / 105€ Prestige </p>
+                                                    <h5>Phase 4 :</h5>
+                                                    <p>Accompagnement pour prolonger l’efficacité de votre soin</p>
                                                 </div>
                                             </li>
                                             <div style="margin-top: 30px;" class="spa-special__btn-box">
                                                 <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
+                                                <p class="price">110€</p>
                                             </div>
                                         </ul>
                                     </div><!-- /.inner -->
@@ -184,69 +163,67 @@
                             </div>
                             <div class="accrodion">
                                 <div class="accrodion-title">
-                                    <h4>Soins LPG Mobilift M6 anti-âge</h4>
+                                    <h4>100 minutes</h4>
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
+                                        <p class="mb-3">Le soin visage comme vous ne l’avez jamais vécu ...</p>
                                         <ul class="services-details-two__points list-unstyled">
-                                            <li>
+                                            <li class="mb-3">
                                                 <div class="icon">
                                                     <span class="fa fa-check"></span>
                                                 </div>
                                                 <div class="text">
-                                                    <p>Soin rénovateur anti-âge (45 min) -> 80€ </p>
+                                                    <h5>Phase 1 :</h5>
+                                                    <p>Consultation beauté pour adapter le soin à votre état de peau du moment</p>
                                                 </div>
                                             </li>
-                                            <li>
+                                            <li class="mb-3">
                                                 <div class="icon">
                                                     <span class="fa fa-check"></span>
                                                 </div>
                                                 <div class="text">
-                                                    <p>Soin régénérateur cellulaire (1h30) -> 140€</p>
+                                                    <h5>Phase 2 :</h5>
+                                                    <p>Pré soin pour mettre en condition le mental et la peau à recevoir le soin</p>
                                                 </div>
                                             </li>
-                                            <li>
+                                            <li class="mb-3">
                                                 <div class="icon">
                                                     <span class="fa fa-check"></span>
                                                 </div>
                                                 <div class="text">
-                                                    <p>1 séance (30 min) -> 59€ </p>
+                                                    <h5>Phase 3 :</h5>
+                                                    <p>Soin adapté, personnalisé prenant en considération l’Holisme *</p>
                                                 </div>
                                             </li>
-                                            <li>
+                                            <li class="mb-3">
                                                 <div class="icon">
                                                     <span class="fa fa-check"></span>
                                                 </div>
                                                 <div class="text">
-                                                    <p>Forfait 10 + 1 offerte -> 550€</p>
+                                                    <h5>Phase 4 :</h5>
+                                                    <p>Utilisation d’une technologie
+                                                    adaptée</p>
                                                 </div>
                                             </li>
-                                            <li>
+                                            <li class="mb-3">
                                                 <div class="icon">
                                                     <span class="fa fa-check"></span>
                                                 </div>
                                                 <div class="text">
-                                                    <p>1 séance zone ciblée (10 min) -> 27€</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Forfait 10 + 1 offerte -> 270€</p>
+                                                    <h5>Phase 5 :</h5>
+                                                    <p>Accompagnement pour prolonger l’efficacité de votre soin</p>
                                                 </div>
                                             </li>
                                             <div style="margin-top: 30px;" class="spa-special__btn-box">
                                                 <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
+                                                <p class="price">145€</p>
                                             </div>
                                         </ul>
                                     </div><!-- /.inner -->
                                 </div>
                             </div>
-                            <p>Forfait personnalisé sur demande
-                                -10% sur l’ensemble des prestations (hors forfait déjà existant)
-                            </p>
+                            <p>*parmi nos soins “respire, hydra respire, naturolift”</p>
                         </div>
                     </div>
                 </div>

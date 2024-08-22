@@ -418,6 +418,13 @@
 </section>
 <!--Testimonial One End-->
 
+<!--Brand One Start-->
+<section class="brand-one">
+    <div class="brand-one__shape-1 float-bob-x">
+        <img src="assets/images/shapes/brand-one-shape-1.png" alt="massage artwork">
+    </div>
+</section>
+<!--Brand One End-->
 
 <!--Instagram Start-->
 <section class="instagram">
@@ -503,22 +510,6 @@
 </section>
 <!--Instagram End-->
 
-
-
-<!--Blog One Start-->
-<section class="blog-one">
-</section>
-
-<!--Blog One End-->
-
-<!--Brand One Start-->
-<section class="brand-one">
-    <div class="brand-one__shape-1 float-bob-x">
-        <img src="assets/images/shapes/brand-one-shape-1.png" alt="massage artwork">
-    </div>
-
-</section>
-<!--Brand One End-->
 <script src="assets/js/carrousel.js"></script>
 <?php $content = ob_get_clean() ?>
 <?php require_once 'template.php' ?>

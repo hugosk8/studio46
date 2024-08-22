@@ -16,10 +16,6 @@
 
 /* Manrope Font (monrop) */
 
-/* h1, h2, h3, h4, h5, h6 {
-  font-family: 'Manrope', sans-serif !important;
-} */
-
 /*--------------------------------------------------------------
 # Common
 --------------------------------------------------------------*/
@@ -121,7 +117,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: var(--mellis-font-two);
+  font-family: "Libre Baskerville", serif;
   font-weight: 400;
   color: var(--mellis-black);
   margin: 0;
@@ -3192,6 +3188,7 @@ p.services-one__text {
   display: block;
   overflow: hidden;
   padding: 120px 0 110px;
+  padding-bottom: 0;
   z-index: 1;
 }
 
@@ -3921,7 +3918,7 @@ p.services-one__text {
 .site-footer {
   position: relative;
   display: block;
-  background-color: var(--mellis-black);
+  background-color: var(--mellis-base);
   z-index: 1;
   overflow: hidden;
 }
@@ -7267,6 +7264,20 @@ footer img {
   color: var(--mellis-black);
 }
 
+.services-details-two__right .inner.heart {
+  background-color: var(--mellis-base);
+  padding: 10px;
+  color: white !important;
+}
+
+.services-details-two__right .inner.heart h4 {
+  color: white;
+}
+
+.services-details-two__right .inner.heart span {
+  color: var(--mellis-gray);
+}
+
 .services-details-two__faq {
   position: relative;
   display: block;
@@ -7725,7 +7736,15 @@ footer img {
 
 .spa-special__btn-box {
   position: relative;
-  display: block;
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.spa-special__btn-box p {
+  font-size: 24px;
+  margin-left: 40px !important;
 }
 
 .spa-special__btn {
@@ -9451,4 +9470,16 @@ a._0001 {
   color: #bcbcbc;
   font-size: 13px;
   line-height: 10px;
+}
+
+.bold {
+  font-weight: 600;
+}
+
+.fs-14 {
+  font-size: 14px;
+}
+
+.fs-18 {
+  font-size: 18px;
 }
