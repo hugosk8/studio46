@@ -59,132 +59,57 @@
             </div>
             <div class="col-xl-8 col-lg-7">
                 <div class="services-details-two__right">
-                    <h3 class="services-details-two__title-1">Programme ker'active</h3>
-                    <p class="services-details-two__text-1">Que vous cherchiez à perdre quelques centimètres, à tonifier certaines zones de votre corps ou à retrouver une énergie vitale, nous avons les solutions pour vous. Nous nous engageons à vous offrir une expérience d'Programme ker'active sûre, efficace et durable.</p>
+                    <h3 class="services-details-two__title-1 text-center">Programme ker'active</h3>
+                    <p class="services-details-two__text-1 text-center">
+                        5 technologies et techniques Facialistes pour une réelle performance en terme de résultats, un véritable accompagnement du début à la fin (diagnostic, compléments alimentaires ...)
+                        <br><br>
+                        Avec une prise en charge holistique pour perfomer !
+                    </p>
                     
-                    <div class="services-details-two__faq">
-                        <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
-                            <div class="accrodion active">
-                                <div class="accrodion-title">
-                                    <h4>LPG</h4>
+                    <div class="inner" style="margin-top: 30px;">
+                        <ul class="services-details-two__points list-unstyled">
+                            <li class="mb-3">
+                                <div class="icon">
+                                    <span class="fa fa-check"></span>
                                 </div>
-                                <div class="accrodion-content">
-                                    <div class="inner">
-                                        <ul class="services-details-two__points list-unstyled">
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>1 soin -> 59€</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>6 soins -> 300€ (50€ la séance)</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>10 soins -> 480€ (48€ la séance)</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>15 soins -> 690€ (46€ la séance)</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>24 soins -> 1200€ (50€ la séance)</p>
-                                                </div>
-                                            </li>
-                                            <div style="margin-top: 30px;" class="spa-special__btn-box">
-                                                <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
-                                            </div>
-                                        </ul>
-                                    </div><!-- /.inner -->
+                                <div class="text">
+                                    <p>La séance -> 39€</p>
                                 </div>
+                            </li>
+                            <li class="mb-3">
+                                <div class="icon">
+                                    <span class="fa fa-check"></span>
+                                </div>
+                                <div class="text">
+                                    <p>La cure de 7 séances -> 787€ + 1 complément alimentaire offert + 10% sur les produits</p>
+                                </div>
+                            </li>
+                            <li class="mb-3">
+                                <div class="icon">
+                                    <span class="fa fa-check"></span>
+                                </div>
+                                <div class="text">
+                                    <p>La cure de 10 séances -> 1125€ + 1 complément alimentaire offert + 10% sur les produits</p>
+                                </div>
+                            </li>
+                        </ul>
+                        <div class="inner tech text-center" style="margin-top: 30px;">
+                            <div class="text">
+                                <ul class="list-unstyled">
+                                    <li>Radio fréquence</li>
+                                    <li>Peeling chimique</li>
+                                    <li>Endermolift</li>
+                                    <li>LED</li>
+                                    <li>Techniques facialistes</li>
+                                </ul>
                             </div>
-                            <div class="accrodion">
-                                <div class="accrodion-title">
-                                    <h4>Detox body</h4>
-                                </div>
-                                <div class="accrodion-content">
-                                    <div class="inner">
-                                        <ul class="services-details-two__points list-unstyled">
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Séance detox body -> 60€ </p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Séance andullation -> 35€</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Cure small 8 soins -> 450€ (56,25€ la séance)</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Cure medium 12 soins -> 590€ (49,16€ la séance)</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Cure large 24 soins -> 890€ (37,08€ la séance)</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Cure XL 48 soins -> 1750€ (36,45€ la séance)</p>
-                                                </div>
-                                            </li>
-                                            <div style="margin-top: 30px;" class="spa-special__btn-box">
-                                                <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
-                                            </div>
-                                        </ul>
-                                    </div><!-- /.inner -->
-                                </div>
+                            <div class="img">
                             </div>
-                            <p>Forfait personnalisé sur demande
-                                -10% sur l’ensemble des prestations (hors forfait déjà existant)
-                            </p>
                         </div>
-                    </div>
+                        <div style="margin-top: 30px;" class="spa-special__btn-box">
+                            <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
+                        </div>
+                    </div><!-- /.inner -->
                 </div>
             </div>
             

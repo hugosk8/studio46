@@ -31,7 +31,7 @@
                             <li><a href="<?= URL ?>?p=kera-facialisme">Kera facialisme<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=kera-visage-high-tech">Kera visage high tech<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=beauty-and-go">Beauty and go<i class="fa fa-angle-right"></i></a></li>
-                            <li><a href="<?= URL ?>?p=kera-corps">kera corps<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=kera-corps">Kera corps<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=kera-experience">Kera experience<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=kera-minceur">Kera minceur<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=kera-bronz">Kera bronz'<i class="fa fa-angle-right"></i></a></li>
@@ -61,8 +61,7 @@
                 <div class="services-details-two__right">
 
                     <h3 class="services-details-two__title-1 text-center">Kera visage sur mesure</h3>
-                    <p class="services-details-two__text-1 text-center">Nous visons l’excellence grâce à une nouvelle approche du soin.
-                    Redécouvrez l’institut de beauté comme vous ne l’avez jamais connu.</p>
+                    <p class="services-details-two__text-1 text-center">Nous visons l’excellence grâce à une nouvelle approche du soin. Redécouvrez l’institut de beauté comme vous ne l’avez jamais connu.</p>
 
                     <div class="services-details-two__faq">
                         <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
@@ -97,7 +96,7 @@
                                                     <span class="fa fa-check"></span>
                                                 </div>
                                                 <div class="text">
-                                                    <h5>Phase 1 :</h5>
+                                                    <h5>Phase 3 :</h5>
                                                     <p>Accompagnement pour prolonger l’efficacité de votre soin</p>
                                                 </div>
                                             </li>
@@ -230,11 +229,6 @@
             </div>
         </div>
     </div>
-</section>
-<!--Services Details Two End-->
-
-</div>
-</div>
 </section>
 <!--Services Details Two End-->
 

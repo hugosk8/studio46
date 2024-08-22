@@ -7278,6 +7278,35 @@ footer img {
   color: var(--mellis-gray);
 }
 
+.services-details-two__right .inner.tech {
+  height: 200px;
+  display: flex;
+}
+
+.services-details-two__right .inner.tech .text {
+  width: 45%;
+  height: 100%;
+  background-color: rgb(240, 229, 217);
+}
+
+.services-details-two__right .inner.tech .text ul {
+  height: 100%;
+}
+
+.services-details-two__right .inner.tech .text ul li {
+  height: 20%;
+  color: var(--mellis-black);
+  text-transform: uppercase;
+}
+
+.services-details-two__right .inner.tech .img {
+  width: 55%;
+  height: 100%;
+  background-image: url('../images/studio46/programme-keractive/technologies.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .services-details-two__faq {
   position: relative;
   display: block;

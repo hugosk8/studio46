@@ -33,7 +33,7 @@
                             <li><a href="<?= URL ?>?p=kera-facialisme">Kera facialisme<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=kera-visage-high-tech">Kera visage high tech<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=beauty-and-go">Beauty and go<i class="fa fa-angle-right"></i></a></li>
-                            <li class="active"><a href="<?= URL ?>?p=kera-corps">kera corps<i class="fa fa-angle-right"></i></a></li>
+                            <li class="active"><a href="<?= URL ?>?p=kera-corps">Kera corps<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=kera-experience">Kera experience<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=kera-minceur">Kera minceur<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=kera-bronz">Kera bronz'<i class="fa fa-angle-right"></i></a></li>
@@ -61,41 +61,109 @@
             </div>
             <div class="col-xl-8 col-lg-7">
                 <div class="services-details-two__right">
-                    <h3 class="services-details-two__title-1">Kera corps</h3>
-                    <p class="services-details-two__text-1">Sublimez votre beauté naturelle avec notre service de Kera corps personnalisé au Maison Kera ! Que ce soit pour une occasion spéciale, un événement important ou simplement pour vous faire plaisir, notre équipe de maquilleurs professionnels est là pour vous offrir un Kera corps impeccable et sur mesure.</p>
+                    <h3 class="services-details-two__title-1 text-center">Kera corps</h3>
+                    <p class="services-details-two__text-1 text-center">Le corps est ultra connecté aux émotions. Il est le reflet des épreuves de la vie, de nos moments de joies, de réussites mais aussi de tristesse et de difficultés. Prenons en soin.</p>
                     
-                    <div class="inner" style="margin-top: 30px;">
-                        <ul class="services-details-two__points list-unstyled">
-                            <li>
-                                <div class="icon">
-                                    <span class="fa fa-check"></span>
+                    <div class="services-details-two__faq">
+                        <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
+                            <div class="accrodion active">
+                                <div class="accrodion-title">
+                                    <h4>80 minutes</h4>
                                 </div>
-                                <div class="text">
-                                    <p>
-                                        Kera corps jour -> 22€ </p>
+                                <div class="accrodion-content">
+                                    <div class="inner">
+                                        <p class="mb-3">Une belle mise en bouche de ce qu’est le lâcher prise, la relaxation et la deconnexion</p>
+                                        <ul class="services-details-two__points list-unstyled">
+                                            <li class="mb-3">
+                                                <div class="icon">
+                                                    <span class="fa fa-check"></span>
+                                                </div>
+                                                <div class="text">
+                                                    <h5>Phase 1 :</h5>
+                                                    <p>Consultation pour adapter le soin à votre état émotionnel et physique</p>
+                                                </div>
+                                            </li>
+                                            <li class="mb-3">
+                                                <div class="icon">
+                                                    <span class="fa fa-check"></span>
+                                                </div>
+                                                <div class="text">
+                                                    <h5>Phase 2 :</h5>
+                                                    <p>Soin adapté et personnalisé prenant en considération l’Holisme en 3 moments clés *</p>
+                                                </div>
+                                            </li>
+                                            <li class="mb-3">
+                                                <div class="icon">
+                                                    <span class="fa fa-check"></span>
+                                                </div>
+                                                <div class="text">
+                                                    <h5>Phase 3 :</h5>
+                                                    <p>Suivi et accompagnement pour prolonger l’efficacité de votre soin</p>
+                                                </div>
+                                            </li>
+                                            <div style="margin-top: 30px;" class="spa-special__btn-box">
+                                                <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
+                                                <p class="price">89€</p>
+                                            </div>
+                                        </ul>
+                                    </div><!-- /.inner -->
                                 </div>
-                            </li>
-                            <li>
-                                <div class="icon">
-                                    <span class="fa fa-check"></span>
-                                </div>
-                                <div class="text">
-                                    <p>Kera corps soirée -> 27€</p>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="icon">
-                                    <span class="fa fa-check"></span>
-                                </div>
-                                <div class="text">
-                                    <p>Kera corps mariée -> 39€ </p>
-                                </div>
-                            </li>
-                            <div style="margin-top: 30px;" class="spa-special__btn-box">
-                                <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
                             </div>
-                        </ul>
-                    </div><!-- /.inner -->
+                            <div class="accrodion">
+                                <div class="accrodion-title">
+                                    <h4>100 minutes</h4>
+                                </div>
+                                <div class="accrodion-content">
+                                    <div class="inner">
+                                        <p class="mb-3">Une déconnexion la plus totale afin de se recentrer, se retrouver et se relaxer comme jamais auparavant</p>
+                                        <ul class="services-details-two__points list-unstyled">
+                                            <li class="mb-3">
+                                                <div class="icon">
+                                                    <span class="fa fa-check"></span>
+                                                </div>
+                                                <div class="text">
+                                                    <h5>Phase 1 :</h5>
+                                                    <p>Consultation pour adapter le soin à votre état émotionnel et physique</p>
+                                                </div>
+                                            </li>
+                                            <li class="mb-3">
+                                                <div class="icon">
+                                                    <span class="fa fa-check"></span>
+                                                </div>
+                                                <div class="text">
+                                                    <h5>Phase 2 :</h5>
+                                                    <p>Pré soin adapté afin de mettre en condition le mental et la peau à recevoir le soin</p>
+                                                </div>
+                                            </li>
+                                            <li class="mb-3">
+                                                <div class="icon">
+                                                    <span class="fa fa-check"></span>
+                                                </div>
+                                                <div class="text">
+                                                    <h5>Phase 3 :</h5>
+                                                    <p>Soin adapté et personnalisé prenant en considération l’Holisme en 4 moments clés *</p>
+                                                </div>
+                                            </li>
+                                            <li class="mb-3">
+                                                <div class="icon">
+                                                    <span class="fa fa-check"></span>
+                                                </div>
+                                                <div class="text">
+                                                    <h5>Phase 4 :</h5>
+                                                    <p>Suivi et accompagnement pour prolonger l’efficacité de votre soin</p>
+                                                </div>
+                                            </li>
+                                            <div style="margin-top: 30px;" class="spa-special__btn-box">
+                                                <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
+                                                <p class="price">145€</p>
+                                            </div>
+                                        </ul>
+                                    </div><!-- /.inner -->
+                                </div>
+                            </div>
+                            <p>*Massage du monde : californien / ayurvedique / tahitien / oriental / balinais / pierres chaudes ...</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
