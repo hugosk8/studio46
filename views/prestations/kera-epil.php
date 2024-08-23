@@ -60,48 +60,38 @@
             </div>
             <div class="col-xl-8 col-lg-7">
                 <div class="services-details-two__right">
-                    <h3 class="services-details-two__title-1">Kera epil'</h3>
-                    <p class="services-details-two__text-1">Notre équipe d'experts en Kera epil' saura choisir les cils appropriés pour compléter la forme de vos yeux et rehausser votre regard de manière personnalisée. Vous vous sentirez plus confiante que jamais avec des cils qui semblent tout droit sortis d'un rêve.</p>
+                    <h3 class="services-details-two__title-1 text-center">Kera epil'</h3>
+                    <p class="services-details-two__text-1 text-center">
+                        LASER<br><br>
+                        FORFAIT :<br>
+                        5 achetés = 1 offerte
+                    </p>
                     
                     <div class="services-details-two__faq">
                         <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
                             <div class="accrodion active">
                                 <div class="accrodion-title">
-                                    <h4>Extension de cils</h4>
+                                    <h4>Visage</h4>
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
                                         <ul class="services-details-two__points list-unstyled">
                                             <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
                                                 <div class="text">
-                                                    <p>Pose complète -> 95€</p>
+                                                    <p>Lèvre supérieure 40€</p>
                                                 </div>
                                             </li>
                                             <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
                                                 <div class="text">
-                                                    <p>Remplissage 2 semaines - 45€</p>
+                                                    <p>Menton 40€</p>
                                                 </div>
                                             </li>
                                             <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
                                                 <div class="text">
-                                                    <p>Remplissage 3 semaines -> 50€</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Remplissage 4 semaines - 60€</p>
+                                                    <p>Inter-sourcils 40€</p>
                                                 </div>
                                             </li>
                                             <div style="margin-top: 30px;" class="spa-special__btn-box">
@@ -113,25 +103,81 @@
                             </div>
                             <div class="accrodion">
                                 <div class="accrodion-title">
-                                    <h4>Rehaussement de cils</h4>
+                                    <h4>Corps</h4>
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
                                         <ul class="services-details-two__points list-unstyled">
                                             <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
                                                 <div class="text">
-                                                    <p>Rehaussement + cils -> 49€</p>
+                                                    <p>Ligne ventrale -> 40€</p>
                                                 </div>
                                             </li>
                                             <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
                                                 <div class="text">
-                                                    <p>Rehaussement + cils + teinture cils 59€</p>
+                                                    <p>Aisselles -> 50€</p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
+                                                <div class="text">
+                                                    <p>½ jambes ou cuisses -> 140€</p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
+                                                <div class="text">
+                                                    <p>Jambes complètes -> 240€</p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
+                                                <div class="text">
+                                                    <p>Avant bras et mains -> 90€</p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
+                                                <div class="text">
+                                                    <p>Bras entiers -> 160€</p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
+                                                <div class="text">
+                                                    <p>Épaules -> 90€</p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
+                                                <div class="text">
+                                                    <p>Dos-bas -> 80€</p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
+                                                <div class="text">
+                                                    <p>Dos-haut -> 140€</p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
+                                                <div class="text">
+                                                    <p>Dos entier -> 180€</p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
+                                                <div class="text">
+                                                    <p>Torse -> 120€</p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
+                                                <div class="text">
+                                                    <p>Ventre homme -> 110€</p>
                                                 </div>
                                             </li>
                                             <div style="margin-top: 30px;" class="spa-special__btn-box">
@@ -143,62 +189,51 @@
                             </div>
                             <div class="accrodion">
                                 <div class="accrodion-title">
-                                    <h4>Microblanding</h4>
+                                    <h4>Intime</h4>
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
                                         <ul class="services-details-two__points list-unstyled">
                                             <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
                                                 <div class="text">
-                                                    <p>Bilan sourcils -> 30€</p>
+                                                    <p>Maillot simple -> 55€</p>
                                                 </div>
                                             </li>
                                             <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
                                                 <div class="text">
-                                                    <p>Microblanding (Retouche 1 mois offerte) -> 250€</p>
+                                                    <p>Maillot échancré -> 80€</p>
                                             </li>
                                             <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
                                                 <div class="text">
-                                                    <p>Retouche d'un an 160€</p>
-                                                </div>
-                                            </li>
-                                            <div style="margin-top: 30px;" class="spa-special__btn-box">
-                                                <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
-                                            </div>
-                                        </ul>
-                                    </div><!-- /.inner -->
-                                </div>
-                            </div>
-                            <div class="accrodion">
-                                <div class="accrodion-title">
-                                    <h4>Teintures</h4>
-                                </div>
-                                <div class="accrodion-content">
-                                    <div class="inner">
-                                        <ul class="services-details-two__points list-unstyled">
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>Teinture sourcils -> 12€</p>
+                                                    <p>Maillot brésilien -> 95€</p>
                                                 </div>
                                             </li>
                                             <li>
-                                                <div class="icon">
-                                                    <span class="fa fa-check"></span>
-                                                </div>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
                                                 <div class="text">
-                                                    <p>Teinture cils -> 16€</p>
+                                                    <p>Maillot complet -> 110€</p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
+                                                <div class="text">
+                                                    <p>Sillon inter-fessiers -> 40€</p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
+                                                <div class="text">
+                                                    <p>Fesses -> 70€</p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="icon"><span class="fa fa-check"></span></div>
+                                                <div class="text">
+                                                    <p>Aréoles des seins -> 40€</p>
+                                                </div>
                                             </li>
                                             <div style="margin-top: 30px;" class="spa-special__btn-box">
                                                 <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>

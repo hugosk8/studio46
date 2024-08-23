@@ -61,100 +61,49 @@
 
             <div class="col-xl-8 col-lg-7">
                     <div class="services-details-two__right">
-                        <h3 class="services-details-two__title-1">Programme kera performance</h3>
-                        <p class="services-details-two__text-1">En plus de ses effets sur votre silhouette, l'Programme kera performance favorise également la circulation sanguine, renforce le système cardiovasculaire et aide à éliminer les toxines. Vous ressortirez de chaque séance avec une sensation de légèreté et de vitalité.</p>
+                        <h3 class="services-details-two__title-1 text-center">Programme kera performance</h3>
+                        <p class="services-details-two__text-1 text-center">4 étapes pour une réelle performance en terme de résultats, un véritable accompagnement du début à la fin (diagnostic, compléments alimentaires ...)<br>Avec une prise en charge holistique pour perfomer !</p>
                         
-                        <div class="services-details-two__faq">
-                            <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
-                                <div class="accrodion active">
-                                    <div class="accrodion-title">
-                                        <h4>Programme kera performance</h4>
+                        <div class="inner" style="margin-top: 30px;">
+                            <ul class="services-details-two__points list-unstyled">
+                                <li>
+                                    <div class="icon">
+                                        <span class="fa fa-check"></span>
                                     </div>
-                                    <div class="accrodion-content">
-                                        <div class="inner">
-                                            <ul class="services-details-two__points list-unstyled">
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>Séance (30 min) -> 22€ </p>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>Forfait découverte (5 séances) -> 100€ (20€ la séance)</p>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>Forfait entretien (10 séances) -> 180€ (18€ la séance) </p>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>Forfait intense (20 séances)	 -> 320€ (16€ la séance)</p>
-                                                    </div>
-                                                </li>
-                                                <div style="margin-top: 30px;" class="spa-special__btn-box">
-                                                    <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
-                                                </div>
-                                            </ul>
-                                        </div><!-- /.inner -->
+                                    <div class="text">
+                                        <p>Le soin : 125€</p>
                                     </div>
+                                </li>
+                                <li>
+                                    <div class="icon">
+                                        <span class="fa fa-check"></span>
+                                    </div>
+                                    <div class="text">
+                                        <p>La cure de 7 séances : 787€ + 1 complément alimentaire offert + 10% sur les produits</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="icon">
+                                        <span class="fa fa-check"></span>
+                                    </div>
+                                    <div class="text">
+                                        <p>La cure de 10 séances : 1125€ + 1 complément alimentaire offert + 10% sur les produits</p>
+                                    </div>
+                                </li>
+                            </ul>
+                            <div class="inner perf text-center" style="margin-top: 30px;">
+                                <div class="img"></div>
+                                <div class="text">
+                                    <ul class="list-unstyled">
+                                        <li>Radio fréquence</li>
+                                        <li>Peeling chimique</li>
+                                        <li>Endermolift</li>
+                                        <li>LED</li>
+                                        <li>Techniques facialistes</li>
+                                    </ul>
                                 </div>
-                                <div class="accrodion">
-                                    <div class="accrodion-title">
-                                        <h4>Forfait amincissement : Cellu M6 LPG + Programme kera performance </h4>
-                                    </div>
-                                    <div class="accrodion-content">
-                                        <div class="inner">
-                                            <ul class="services-details-two__points list-unstyled">
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>6 séances -> 396€</p>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>10 séances -> 630€</p>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>15 séances -> 900€</p>
-                                                    </div>
-                                                </li>
-                                                <div style="margin-top: 30px;" class="spa-special__btn-box">
-                                                    <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
-                                                </div>
-                                            </ul>
-                                        </div><!-- /.inner -->
-                                    </div>
-                                </div>
-                                <p>Forfait personnalisé sur demande
-                                    -10% sur l’ensemble des prestations (hors forfait déjà existant)
-                                </p>
                             </div>
-                        </div>
+                        </div><!-- /.inner -->
                     </div>
                 </div>
             </div>

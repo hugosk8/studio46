@@ -25,7 +25,7 @@
   --mellis-font-three: 'Parisienne', cursive;
   --mellis-white: #ffffff;
   --mellis-white-rgb: 255, 255, 255;
-  --mellis-base: rgb(168, 56, 76);
+  --mellis-base: rgb(111, 107, 74);
   --mellis-base-rgb: rgb(222, 150, 141);
   --mellis-black: #27252a;
   --mellis-black-rgb: 39, 37, 42;
@@ -7307,6 +7307,35 @@ footer img {
   background-size: cover;
 }
 
+.services-details-two__right .inner.perf {
+  height: 200px;
+  display: flex;
+}
+
+.services-details-two__right .inner.perf .text {
+  width: 45%;
+  height: 100%;
+  background-color: rgb(240, 229, 217);
+}
+
+.services-details-two__right .inner.perf .text ul {
+  height: 100%;
+}
+
+.services-details-two__right .inner.perf .text ul li {
+  height: 20%;
+  color: var(--mellis-black);
+  text-transform: uppercase;
+}
+
+.services-details-two__right .inner.perf .img {
+  width: 55%;
+  height: 100%;
+  background-image: url('../images/studio46/kera-performance/performance.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .services-details-two__faq {
   position: relative;
   display: block;
@@ -9511,4 +9540,8 @@ a._0001 {
 
 .fs-18 {
   font-size: 18px;
+}
+
+.underlined {
+  text-decoration: underline;
 }

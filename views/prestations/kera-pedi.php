@@ -61,212 +61,46 @@
 
             <div class="col-xl-8 col-lg-7">
                     <div class="services-details-two__right">
-                        <h3 class="services-details-two__title-1">Kera pedi</h3>
-                        <p class="services-details-two__text-1">Nous mettons un point d'honneur à utiliser des produits de qualité, qui respectent votre peau et minimisent les irritations. Notre équipe veille à votre confort tout au long de la séance, pour que vous ressortiez satisfaite et avec une peau lisse et douce.</p>
+                        <h3 class="services-details-two__title-1 text-center">Kera pedi</h3>
                         
-                        <div class="services-details-two__faq">
-                            <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
-                                <div class="accrodion active">
-                                    <div class="accrodion-title">
-                                        <h4>Kera pedi</h4>
+                        <div class="inner" style="margin-top: 30px;">
+                            <ul class="services-details-two__points list-unstyled">
+                                <li class="mb-3">
+                                    <div class="icon"><span class="fa fa-check"></span></div>
+                                    <div class="text">
+                                        <p>Pédicure simple (limage et cuticules) 25€<br>
+                                        <span class="underlined">option :</span> semi permanent +10€<br>
+                                        <span class="underlined">option calluspeeling :</span> +40€</p>
                                     </div>
-                                    <div class="accrodion-content">
-                                        <div class="inner">
-                                            <ul class="services-details-two__points list-unstyled">
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>Sourcils, lèvres ou menton -> 9€ </p>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>Visage -> 22€</p>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>½ Jambes -> 20€</p>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>Cuisses -> 16€</p>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>½ Jambes + arrières cuisses -> 26€ </p>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>Arrières cuisses seules -> 10€</p>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>Jambes complètes -> 31€</p>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>Maillot simple -> 17€</p>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>Maillot brésilien -> 20€ </p>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>Maillot américain -> 23€</p>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>Maillot intégral -> 26€</p>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>Aisselles -> 14€</p>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>Bras -> 20€</p>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>Dos ou torse -> 25€</p>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>Épaules -> 16€</p>
-                                                    </div>
-                                                </li>
-                                                <div style="margin-top: 30px;" class="spa-special__btn-box">
-                                                    <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
-                                                </div>
-                                            </ul>
-                                        </div><!-- /.inner -->
+                                </li>
+                                <li class="mb-3">
+                                    <div class="icon"><span class="fa fa-check"></span></div>
+                                    <div class="text">
+                                        <p>Dépose avec soin de l’ongle : 15€<br>
+                                        <p>seulement 10€ pour dépose suivie de pose</p>
                                     </div>
-                                </div>
-                                <div class="accrodion">
-                                    <div class="accrodion-title">
-                                        <h4>Forfaits </h4>
+                                </li>
+                                <li class="mb-3">
+                                    <div class="icon"><span class="fa fa-check"></span></div>
+                                    <div class="text">
+                                        <p>Calluspeeling seul : 55€</p>
                                     </div>
-                                    <div class="accrodion-content">
-                                        <div class="inner">
-                                            <ul class="services-details-two__points list-unstyled">
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p> ½ Jambes + maillot simple + aisselles -> 43€ </p>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>½ Jambes + maillot brésilien + aisselles -> 46€</p>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>½ Jambes + maillot intégral + aisselles -> 51€</p>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p> Jambes complètes + maillot simple + aisselles -> 53€ </p>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>Jambes complètes + maillot brésilien + aisselles -> 56€</p>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="fa fa-check"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>Jambes complètes + maillot intégral + aisselles -> 61€</p>
-                                                    </div>
-                                                </li>
-                                                <div style="margin-top: 30px;" class="spa-special__btn-box">
-                                                    <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
-                                                </div>
-                                            </ul>
-                                        </div><!-- /.inner -->
-                                    </div>
-                                </div>
-                                <p>Forfait personnalisé sur demande
-                                    -10% sur l’ensemble des prestations (hors forfait déjà existant)
+                                </li>
+                            </ul>
+                            <div class="inner heart text-center" style="margin-top: 30px;">
+                                <h4>Coup de coeur</h4>
+                                <p class="bold">PSIO - 19€*</p>
+                                <span>Une expérience pour un bien être instantanné</span>
+                                <p>
+                                    LOCATION DOMICILE :<br>
+                                    10 jours - 95€ (caution de 300€)<br>
+                                    20 jours - 150
                                 </p>
                             </div>
-                        </div>
+                            <div style="margin-top: 30px;" class="spa-special__btn-box">
+                                <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
+                            </div>
+                        </div><!-- /.inner -->
                     </div>
                 </div>
             </div>
