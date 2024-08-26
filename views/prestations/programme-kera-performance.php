@@ -103,6 +103,9 @@
                                     </ul>
                                 </div>
                             </div>
+                            <div style="margin-top: 30px;" class="spa-special__btn-box">
+                                <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
+                            </div>
                         </div><!-- /.inner -->
                     </div>
                 </div>

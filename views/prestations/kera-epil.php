@@ -60,10 +60,11 @@
             </div>
             <div class="col-xl-8 col-lg-7">
                 <div class="services-details-two__right">
+                    
                     <h3 class="services-details-two__title-1 text-center">Kera epil'</h3>
                     <p class="services-details-two__text-1 text-center">
-                        LASER<br><br>
-                        FORFAIT :<br>
+                        Laser<br><br>
+                        Forfait :<br>
                         5 achetés = 1 offerte
                     </p>
                     
@@ -246,6 +247,90 @@
                                 -10% sur l’ensemble des prestations (hors forfait déjà existant)
                             </p>
                         </div>
+                    </div>
+                    <h3 class="services-details-two__title-1 text-center">Kera epil'</h3>
+                    <p class="services-details-two__text-1 text-center">
+                        Cire<br>
+                        Forfait :<br>
+                        10% dès 3 zones
+                    </p>
+
+                    <ul class="services-details-two__points list-unstyled">
+                        <li class="mb-3">
+                            <div class="icon"><span class="fa fa-check"></span></div>
+                            <div class="text">
+                                <p>Sourcils / lèvres: 10€</p>
+                            </div>
+                        </li>
+                        <li class="mb-3">
+                            <div class="icon"><span class="fa fa-check"></span></div>
+                            <div class="text">
+                                <p>Menton / inter : 6€</p>
+                            </div>
+                        </li>
+                        <li class="mb-3">
+                            <div class="icon"><span class="fa fa-check"></span></div>
+                            <div class="text">
+                                <p>visage 3 zones = forfait 23€</p>
+                            </div>
+                        </li>
+                        <li class="mb-3">
+                            <div class="icon"><span class="fa fa-check"></span></div>
+                            <div class="text">
+                                <p>Maillot complet : 30€</p>
+                            </div>
+                        </li>
+                        <li class="mb-3">
+                            <div class="icon"><span class="fa fa-check"></span></div>
+                            <div class="text">
+                                <p>Maillot Hollywood : 25€</p>
+                            </div>
+                        </li>
+                        <li class="mb-3">
+                            <div class="icon"><span class="fa fa-check"></span></div>
+                            <div class="text">
+                                <p>½ jambes : 22€</p>
+                            </div>
+                        </li>
+                        <li class="mb-3">
+                            <div class="icon"><span class="fa fa-check"></span></div>
+                            <div class="text">
+                                <p>Homme : 29€</p>
+                            </div>
+                        </li>
+                        <li class="mb-3">
+                            <div class="icon"><span class="fa fa-check"></span></div>
+                            <div class="text">
+                                <p>Jambes complètes -> 31€</p>
+                            </div>
+                        </li>
+                        <li class="mb-3">
+                            <div class="icon"><span class="fa fa-check"></span></div>
+                            <div class="text">
+                                <p>Maillot simple -> 17€</p>
+                            </div>
+                        </li>
+                        <li class="mb-3">
+                            <div class="icon"><span class="fa fa-check"></span></div>
+                            <div class="text">
+                                <p>Maillot brésilien -> 20€</p>
+                            </div>
+                        </li>
+                        <li class="mb-3">
+                            <div class="icon"><span class="fa fa-check"></span></div>
+                            <div class="text">
+                                <p>Aisselles -> 14€</p>
+                            </div>
+                        </li>
+                        <li class="mb-3">
+                            <div class="icon"><span class="fa fa-check"></span></div>
+                            <div class="text">
+                                <p>Bras -> 20€</p>
+                            </div>
+                        </li>
+                    </ul>
+                    <div style="margin-top: 30px;" class="spa-special__btn-box">
+                        <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
                     </div>
                 </div>
             </div>

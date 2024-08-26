@@ -58,7 +58,7 @@
 
 <!--Video One Start-->
 <section class="video-one">
-    <div class="video-one__bg jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%" style="background-image: url(assets/images/studio46/image-index.webp);"></div>
+    <div class="video-one__bg jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%" style="background-image: url(assets/images/studio46/index/encens.jpg);"></div>
     <div class="container">
         <div class="row">
             <div class="col-xl-6 col-lg-6 m-auto">
@@ -427,13 +427,13 @@
 <!--Brand One End-->
 
 <!--Instagram Start-->
-<section class="instagram">
+<!-- <section class="instagram">
     <div class="container">
         <div class="instagram__title">
             <h3>Rejoignez-nous sur Instagram</h3>
         </div>
         <div class="row">
-            <!--Instagram Single Start-->
+            
             <div class="col-xl-2 col-lg-4 col-md-6">
                 <div class="instagram__single">
                     <div class="instagram__img">
@@ -444,20 +444,19 @@
                     </div>
                 </div>
             </div>
-            <!--Instagram Single End-->
-            <!--Instagram Single Start-->
+            
             <div class="col-xl-2 col-lg-4 col-md-6">
                 <div class="instagram__single">
                     <div class="instagram__img">
                         <img src="assets/images/studio46/photo-insta/photo_2.webp" alt="Photo de l’intérieur d’un sauna, des bancs en bois sont apparents à l’intérieur du sauna.">
                         <div class="instagram__img-icon">
-                            <a href="https://www.instagram.com/studio46.arras/"><span class="fab fa-instagram"></span></a>
+                            <a href="https://www.
+                            instagram.com/studio46.arras/"><span class="fab fa-instagram"></span></a>
                         </div>
                     </div>
                 </div>
             </div>
-            <!--Instagram Single End-->
-            <!--Instagram Single Start-->
+            
             <div class="col-xl-2 col-lg-4 col-md-6">
                 <div class="instagram__single">
                     <div class="instagram__img">
@@ -468,8 +467,7 @@
                     </div>
                 </div>
             </div>
-            <!--Instagram Single End-->
-            <!--Instagram Single Start-->
+            
             <div class="col-xl-2 col-lg-4 col-md-6">
                 <div class="instagram__single">
                     <div class="instagram__img">
@@ -480,8 +478,7 @@
                     </div>
                 </div>
             </div>
-            <!--Instagram Single End-->
-            <!--Instagram Single Start-->
+            
             <div class="col-xl-2 col-lg-4 col-md-6">
                 <div class="instagram__single">
                     <div class="instagram__img">
@@ -492,8 +489,7 @@
                     </div>
                 </div>
             </div>
-            <!--Instagram Single End-->
-            <!--Instagram Single Start-->
+            
             <div class="col-xl-2 col-lg-4 col-md-6">
                 <div class="instagram__single">
                     <div class="instagram__img">
@@ -504,7 +500,7 @@
                     </div>
                 </div>
             </div>
-            <!--Instagram Single End-->
+            
         </div>
     </div>
 </section>

@@ -78,6 +78,9 @@
                                             Remboursée dès l’achat d’une cure de soins.
                                         </p>
                                     </div><!-- /.inner -->
+                                    <div style="margin-top: 30px;" class="spa-special__btn-box">
+                                        <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
+                                    </div>
                                 </div>
                             </div>
                             <div class="accrodion">
@@ -115,6 +118,9 @@
                                         </ul>
                                         <p>La technique est révolutionnaire, elle offre un résultat optimal. Non invasive, elle a l'avantage d'être aussi efficace que les injections d'acide hyaluronique ou de Botox, et plus durables.</p>
                                     </div><!-- /.inner -->
+                                    <div style="margin-top: 30px;" class="spa-special__btn-box">
+                                        <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
+                                    </div>
                                 </div>
                             </div>
                             <div class="accrodion">
@@ -136,6 +142,9 @@
                                         </ul>
                                         <p>Le peeling chimique est une technique utilisée pour réveiller l'éclat de la peau et atténuer les imperfections en ayant une action sur la régénération de la peau et le renouvellement cellulaire.</p>
                                     </div><!-- /.inner -->
+                                    <div style="margin-top: 30px;" class="spa-special__btn-box">
+                                        <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
+                                    </div>
                                 </div>
                             </div>
                             <div class="accrodion">
@@ -156,6 +165,9 @@
                                         </ul>
                                         <p>La LED, selon la couleur choisie, travaille différemment sur les problématiques de peau, telles que l’acné, l’anti-âge, la sensibilité de la peau ou les tâches pigmentaires</p>
                                     </div><!-- /.inner -->
+                                    <div style="margin-top: 30px;" class="spa-special__btn-box">
+                                        <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
+                                    </div>
                                 </div>
                             </div>
                             <div class="accrodion">
@@ -202,6 +214,9 @@
                                             </li>
                                         </ul>
                                     </div><!-- /.inner -->
+                                    <div style="margin-top: 30px;" class="spa-special__btn-box">
+                                        <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
+                                    </div>
                                 </div>
                             </div>
                             <p>Forfait personnalisé sur demande

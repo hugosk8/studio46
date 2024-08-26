@@ -87,16 +87,6 @@
                                     </div>
                                 </li>
                             </ul>
-                            <div class="inner heart text-center" style="margin-top: 30px;">
-                                <h4>Coup de coeur</h4>
-                                <p class="bold">PSIO - 19€*</p>
-                                <span>Une expérience pour un bien être instantanné</span>
-                                <p>
-                                    LOCATION DOMICILE :<br>
-                                    10 jours - 95€ (caution de 300€)<br>
-                                    20 jours - 150
-                                </p>
-                            </div>
                             <div style="margin-top: 30px;" class="spa-special__btn-box">
                                 <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
                             </div>

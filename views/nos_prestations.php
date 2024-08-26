@@ -54,7 +54,7 @@
                                 <div class="services-one__single-inner">
                                     <div class="services-one__img-box">
                                         <div class="services-one__img">
-                                            <img src="assets/images/studio46/nos_prestations/soins-du-corps.webp" alt="femme se faisant masser le dos avec de la boue marine">
+                                            <img src="assets/images/studio46/nos_prestations/extension-de-cils.webp" alt="femme se faisant masser le dos avec de la boue marine">
                                         </div>
                                         <div class="services-one__icon">
                                             <span>
@@ -81,7 +81,7 @@
                                 <div class="services-one__single-inner">
                                     <div class="services-one__img-box">
                                         <div class="services-one__img">
-                                            <img src="assets/images/studio46/nos_prestations/massage-pieds-mains.webp" alt="Beauty and go">
+                                            <img src="assets/images/studio46/nos_prestations/epilation.webp" alt="Beauty and go">
                                         </div>
                                         <div class="services-one__icon">
                                             <span class="icon-lotus"></span>
@@ -158,7 +158,7 @@
                                 <div class="services-one__single-inner">
                                     <div class="services-one__img-box">
                                         <div class="services-one__img">
-                                            <img src="assets/images/studio46/nos_prestations/extension-de-cils.webp" alt="Photo d'une femme se faisant épiler les cils">
+                                            <img src="assets/images/studio46/nos_prestations/soins-du-corps.webp" alt="Photo d'une femme se faisant épiler les cils">
                                         </div>
                                         <div class="services-one__icon">
                                             <span>
@@ -185,7 +185,7 @@
                                 <div class="services-one__single-inner">
                                     <div class="services-one__img-box">
                                         <div class="services-one__img">
-                                            <img src="assets/images/studio46/nos_prestations/bronzage.webp" alt="Photo d'une peau bronzée au soleil">
+                                            <img src="assets/images/studio46/nos_prestations/epilation.webp" alt="Photo d'une peau bronzée au soleil">
                                         </div>
                                         <div class="services-one__icon">
                                             <span>
@@ -264,7 +264,7 @@
                                 <div class="services-one__single-inner">
                                     <div class="services-one__img-box">
                                         <div class="services-one__img">
-                                            <img src="assets/images/studio46/nos_prestations/epilation.webp" alt="Epilation">
+                                            <img src="assets/images/studio46/nos_prestations/bronzage.webp" alt="Epilation">
                                         </div>
                                         <div class="services-one__icon">
                                             <span class="icon-herbs"></span>
@@ -339,7 +339,7 @@
                                 <div class="services-one__single-inner">
                                     <div class="services-one__img-box">
                                         <div class="services-one__img">
-                                            <img src="assets/images/studio46/nos_prestations/epilation.webp" alt="Epilation">
+                                            <img src="assets/images/studio46/nos_prestations/massage-pieds-mains.webp" alt="Epilation">
                                         </div>
                                         <div class="services-one__icon">
                                             <span class="icon-herbs"></span>

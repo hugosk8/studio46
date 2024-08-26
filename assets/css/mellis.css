@@ -2572,6 +2572,11 @@ ul {
   margin-top: 41px;
 }
 
+.welcome-one__text {
+  font-family: "Parisienne", cursive;
+  font-size: 22px;
+}
+
 /*--------------------------------------------------------------
 # services One
 --------------------------------------------------------------*/
@@ -3188,7 +3193,6 @@ p.services-one__text {
   display: block;
   overflow: hidden;
   padding: 120px 0 110px;
-  padding-bottom: 0;
   z-index: 1;
 }
 
@@ -6733,6 +6737,10 @@ footer img {
   z-index: -1;
 }
 
+.page-header__bg.contact {
+  background-position: top -154px left 0px;
+}
+
 .page-header__inner {
   position: relative;
   display: block;
@@ -7207,6 +7215,11 @@ footer img {
   margin-bottom: 21px;
   font-family: "Libre Baskerville", serif;
   text-transform: uppercase;
+}
+
+.services-details-two__text-1 {
+  font-family: "Parisienne", cursive;
+  font-size: 20px;
 }
 
 .services-details-two__text-2 {
@@ -9544,4 +9557,8 @@ a._0001 {
 
 .underlined {
   text-decoration: underline;
+}
+
+.font-dancing {
+  font-family: "Parisienne", cursive;
 }

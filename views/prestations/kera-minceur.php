@@ -61,7 +61,7 @@
             <div class="col-xl-8 col-lg-7">
                 <div class="services-details-two__right">
                     <h3 class="services-details-two__title-1 text-center">Kera minceur</h3>
-                    <p class="services-details-two__text-1 text-center">UN VRAI ACCOMPAGNEMENT MINCEUR : DESTOCKER, REMODELER, DRAINER, TONIFIER, REMUSCLER</p>
+                    <p class="services-details-two__text-1 text-center">Un vrau accompagnement minceur : destocker, remodeler, drainer, tonifier, remuscler</p>
                     
                     <div class="services-details-two__faq">
                         <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
@@ -265,6 +265,9 @@
                                         <li>Soin bien -être corps</li>
                                         <li>Soin raffermissant</li>
                                     </ul>
+                                </div>
+                                <div style="margin-top: 30px;" class="spa-special__btn-box">
+                                    <a href="https://www.planity.com/studio-46-62000-arras" class="spa-special__btn thm-btn">Je reserve en ligne</a>
                                 </div>
                             </div>
                         </div>
