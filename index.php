@@ -3,6 +3,7 @@ define("URL", str_replace("index.php", "", (isset($_SERVER['HTTPS']) ? "https" :
 
 $page = isset($_GET['p']) ? $_GET['p'] : 'accueil';
 
+ob_start();
 switch ($page) {
     case null:
         $metaDescription = "Découvrez la maison KERA, où l’approche holistique du bien-être et de la beauté va de pair avec les technologies les plus innovantes.";
@@ -90,21 +91,23 @@ switch ($page) {
         require_once 'views/prestations/programme-kera-performance.php';
         break;
     case 'prestations':
-        $metaDescription = "";
-        $title = "";
+        $metaDescription = "Révélez votre éclat avec nos soins du visage personnalisés. Profitez d'une expérience relaxante et revitalisante dès aujourd'hui : soin spiruline, soin de saison..";
+        $title = "Maison Kera | Soins du visage";
         require_once 'views/nos_prestations.php';
         break;
     case 'mentions-legales':
-        $metaDescription = "";
-        $title = "";
+        $metaDescription = "Mentions légales";
+        $title = "Maison Kera | Mentions légales";
         require_once 'views/mentions-legales.php';
         break;
     case 'qui-sommes-nous':
-        $metaDescription = "";
-        $title = "";
+        $metaDescription = "Pour des renseignements ou réservations, contactez-nous au 03.21.23.40.30. Réponse rapide assurée !";
+        $title = "Maison Kera | Qui-sommes-nous?";
         require_once 'views/qui-sommes-nous.php';
         break;
     default:
         require 'views/404.php';
         break;
 }
+$content = ob_get_clean();
+require_once 'views/template.php';

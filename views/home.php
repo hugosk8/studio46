@@ -1,4 +1,3 @@
-<?php ob_start() ?>
 <!--Main Slider Start-->
 <section class="main-slider-two">
     <div class="swiper-container thm-swiper__slider">
@@ -624,8 +623,6 @@
         </div>
     </div>
 </section>
-<!--Instagram End-->
+Instagram End-->
 
 <script src="assets/js/carrousel.js"></script>
-<?php $content = ob_get_clean() ?>
-<?php require_once 'template.php' ?>

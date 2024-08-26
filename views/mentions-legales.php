@@ -1,7 +1,3 @@
-<?php ob_start() ?>
-<?php $metaDescription = "Mentions legales" ?>
-<?php $title = "Maison Kera | Mentions legales" ?>
-
 <div class="mention">
     <h1>Mentions légales Maison Kera</h1>
     <div class="mentionBlocs">
@@ -37,6 +33,3 @@
         </div>
     </div>
 </div>
-
-<?php $content = ob_get_clean() ?>
-<?php require_once 'template.php' ?>

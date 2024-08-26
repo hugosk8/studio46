@@ -1,4 +1,3 @@
-<?php ob_start() ?>
 <section>
     <div class="container">
         <div class="row">
@@ -18,5 +17,3 @@
         </div>
     </div>
 </section>
-<?php $content = ob_get_clean() ?>
-<?php require_once 'template.php' ?>

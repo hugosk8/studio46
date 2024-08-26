@@ -1,6 +1,3 @@
-<?php ob_start() ?>
-<?php $metaDescription = "Découvrez nos soins amincissants de pointe pour sculpter votre silhouette. Transformez-vous avec des traitements experts. Réservez dès maintenant : séance LPB Alliance" ?>
-<?php $title = "Maison Kera | Programme ker'active" ?>
 <!--Page Header Start-->
 <section class="page-header">
     <div class="page-header__bg" style="background-image: url(assets/images/studio46/breadcrumbs/extension-de-cils.webp);"></div>
@@ -116,6 +113,3 @@
     </div>
 </section>
 <!--Services Details Two End-->
-
-<?php $content = ob_get_clean() ?>
-<?php  require_once './views/template.php' ?>

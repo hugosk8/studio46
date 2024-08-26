@@ -1,5 +1,3 @@
-<?php ob_start() ?>
-
 <!--Page Header Start-->
 <section class="page-header">
     <div class="page-header__bg" style="background-image: url(assets/images/studio46/breadcrumbs/maquillage.webp);"></div>
@@ -112,6 +110,3 @@
         </div>
     </div>
 </section>
-
-<?php $content = ob_get_clean() ?>
-<?php  require_once './views/template.php' ?>

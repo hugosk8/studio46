@@ -1,5 +1,3 @@
-<?php ob_start() ?>
-
 <!--Page Header Start-->
 <section class="page-header">
     <div class="page-header__bg contact" style="background-image: url(assets/images/studio46/index/encens.jpg);">
@@ -91,6 +89,3 @@
     </div>
 </section>
 <!--Google Map End-->
-
-<?php $content = ob_get_clean() ?>
-<?php require_once 'template.php' ?>
