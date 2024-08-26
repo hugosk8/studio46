@@ -1,6 +1,4 @@
 <?php ob_start() ?>
-<?php $metaDescription = "Obtenez des cils luxuriants et envoûtants avec nos extensions professionnelles. Révélez un regard saisissant. Réservez votre séance dès maintenant : pose complète, remplissage.." ?>
-<?php $title = "Maison Kera | Kera epil'" ?>
 
 <!--Page Header Start-->
 <section class="page-header">

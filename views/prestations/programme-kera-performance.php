@@ -1,6 +1,5 @@
 <?php ob_start() ?>
-<?php $metaDescription = "Plongez dans la forme avec nos séances d'Programme kera performance rafraîchissantes. Entraînement dynamique et revitalisant. Réservez votre séance aquatique dès aujourd'hui : séance découverte, entretien.."?>
-<?php $title = "Maison Kera | Programme kera performance" ?>
+
 
 <!--Page Header Start-->
 <section class="page-header">

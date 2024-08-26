@@ -1,6 +1,4 @@
 <?php ob_start() ?>
-<?php $metaDescription = "Pour des renseignements ou réservations, contactez-nous au 03.21.23.40.30. Réponse rapide assurée !"?>
-<?php $title = "Maison Kera | Nous contacter" ?>
 
 <!--Page Header Start-->
 <section class="page-header">

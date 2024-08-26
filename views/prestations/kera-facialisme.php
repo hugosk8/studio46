@@ -1,6 +1,4 @@
 <?php ob_start() ?>
-<?php $metaDescription = "Offrez à votre corps le bien-être qu'il mérite avec nos soins corporels apaisants. Détente et revitalisation au rendez-vous : soin californien, suédois, lomi lomi.." ?>
-<?php $title = "Maison Kera | Kera facialisme" ?>
 
 <!--Page Header Start-->
 <section class="page-header">

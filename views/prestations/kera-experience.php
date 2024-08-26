@@ -1,7 +1,4 @@
 <?php ob_start() ?>
-<?php $metaDescription = "Obtenez des cils luxuriants et envoûtants avec nos extensions professionnelles. Révélez un regard saisissant. Réservez votre séance dès maintenant : pose complète, remplissage.." ?>
-<?php $title = "Maison Kera | Kera expérience" ?>
-
 <!--Page Header Start-->
 <section class="page-header">
     <div class="page-header__bg" style="background-image: url(assets/images/studio46/breadcrumbs/beaute-du-regard.webp);"></div>

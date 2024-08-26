@@ -1,6 +1,4 @@
 <?php ob_start() ?>
-<?php $metaDescription = "Dites adieu aux poils indésirables avec nos Kera pedi professionnelles. Une peau lisse et soyeuse vous attend. Réservez votre séance dès maintenant : sourcils, visage, jambes, maillot.."?>
-<?php $title = "Maison Kera | Kera pedi" ?>
 
 <!--Page Header Start-->
 <section class="page-header">

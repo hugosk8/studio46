@@ -1,6 +1,4 @@
 <?php ob_start() ?>
-<?php $metaDescription = "Obtenez un teint éclatant toute l'année avec nos services de Kera minceur de qualité. Rayonnez avec une peau dorée. Réservez votre session dès maintenant : séance UV, douche auto-bronzante.."?>
-<?php $title = "Maison Kera | Kera minceur" ?>     
 
 <!--Page Header Start-->
 <section class="page-header">

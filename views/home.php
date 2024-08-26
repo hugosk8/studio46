@@ -1,6 +1,4 @@
 <?php ob_start() ?>
-<?php $metaDescription = "Découvrez la maison KERA, où l’approche holistique du bien-être et de la beauté va de pair avec les technologies les plus innovantes." ?>
-<?php $title = "Maison Kera | Accueil" ?>
 <!--Main Slider Start-->
 <section class="main-slider-two">
     <div class="swiper-container thm-swiper__slider">

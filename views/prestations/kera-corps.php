@@ -1,6 +1,4 @@
 <?php ob_start() ?>
-<?php $metaDescription = "Laissez notre expertise en Kera corps sublimer votre beauté naturelle. Découvrez des looks captivants et réservez votre transformation dès aujourd'hui : Kera corps de jour, soirée, teintures sourcils .." ?>
-<?php $title = "Maison Kera | Kera corps" ?>
 
 <!--Page Header Start-->
 <section class="page-header">

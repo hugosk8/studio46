@@ -1,6 +1,4 @@
 <?php ob_start() ?>
-<?php $metaDescription = "Laissez notre expertise en Beauty and go sublimer votre beauté naturelle. Découvrez des looks captivants et réservez votre transformation dès aujourd'hui : Beauty and go de jour, soirée, teintures sourcils .." ?>
-<?php $title = "Maison Kera | Beauty and go" ?>
 
 <!--Page Header Start-->
 <section class="page-header">

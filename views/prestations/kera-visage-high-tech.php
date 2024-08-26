@@ -1,6 +1,4 @@
 <?php ob_start() ?>
-<?php $metaDescription = "Prenez soin de vos mains et pieds avec nos traitements relaxants. Offrez-leur une touche d'élégance et de douceur. Réservez votre moment de détente : manucure, limage.." ?>
-<?php $title = "Maison Kera | Kera visage high tech" ?>
 
 <!--Page Header Start-->
 <section class="page-header">

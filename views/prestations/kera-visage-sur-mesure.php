@@ -1,6 +1,4 @@
 <?php ob_start() ?>
-<?php $metaDescription = "Révélez votre éclat avec nos Kera visage sur mesure personnalisés. Profitez d'une expérience relaxante et revitalisante dès aujourd'hui : soin spiruline, soin de saison.." ?>
-<?php $title = "Maison Kera | Kera visage sur mesure" ?>
 <!--Page Header Start-->
 <section class="page-header">
     <div class="page-header__bg" style="background-image: url(assets/images/studio46/breadcrumbs/soins-du-visage.webp);"></div>
