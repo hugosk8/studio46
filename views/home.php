@@ -1,54 +1,82 @@
 <?php ob_start() ?>
-<?php $metaDescription = "Découvrez l’élégance et la sérénité à notre institut de beauté. Expérience unique avec des soins de qualité : soins du visage, du corps, maquillage, extension de cils.." ?>
+<?php $metaDescription = "Découvrez la maison KERA, où l’approche holistique du bien-être et de la beauté va de pair avec les technologies les plus innovantes." ?>
 <?php $title = "Maison Kera | Accueil" ?>
-        <!--Main Slider Start-->
-        <section class="main-slider-two">
-            <div class="swiper-container thm-swiper__slider">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                    <div class="image-layer-two" style="background-image: url(assets/images/studio46/index/breadcrumb2.png); background-position: cover;"></div>
-                        <!-- /.image-layer -->
+<!--Main Slider Start-->
+<section class="main-slider-two">
+    <div class="swiper-container thm-swiper__slider">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+            <div class="image-layer-two" style="background-image: url(assets/images/studio46/index/breadcrumb2.png); background-position: cover;"></div>
+                <!-- /.image-layer -->
 
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-xl-12">
-                                    <div class="main-slider-two__content">
-                                        <p class="main-slider-two__sub-title">Maison Kera</p>
-                                        <h2 class="main-slider-two__title">Votre centre d’esthétique<br> </h2>
-                                        <h3 class="subline main-slider-two__btn-box">À deux pas du beffroi</h3>
-                                        <div class="main-slider-two__btn-box">
-                                            <a href="https://www.planity.com/studio-46-62000-arras" class="thm-btn main-slider-two__btn">Prendre rdv</a>
-                                        </div>
-                                    </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-12">
+                            <div class="main-slider-two__content">
+                                <p class="main-slider-two__sub-title">Maison Kera</p>
+                                <h1 class="main-slider-two__title">Beauté et bien-être holistique à Arras à la Maison KERA<br></h1>
+                                <!-- <h2 class="subline main-slider-two__btn-box">À deux pas du beffroi</h2> -->
+                                <div class="main-slider-two__btn-box">
+                                    <a href="https://www.planity.com/studio-46-62000-arras" class="thm-btn main-slider-two__btn">Prendre rdv</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>
-        <!--Main Slider End-->
-
+        </div>
+    </div>
+</section>
+<!--Main Slider End-->
 
 <!--Welcome One Start-->
-<section class="welcome-one">
+<section class="welcome-one pb-0">
     <div class="container">
         <div class="row">
             <div class="col-xl-6">
                 <div class="welcome-one__left">
                     <div class="welcome-one__img-box wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
                         <div class="welcome-one__img">
-                            <img src="assets/images/studio46/index/qui-sommes-nous.webp" alt="Photo& d’un membre du Studio46 qui travaille">
+                            <img src="assets/images/studio46/index/silhouette.jpg" alt="Photo& d’un membre du Studio46 qui travaille">
                         </div>
                     </div>
                 </div>
             </div>
+            <div class="col-xl-6 d-flex align-items-center justify-content-center flex-column">
+                <div class="welcome-one__right">
+                    <p class="welcome-one__text">La beauté n’est pas simplement une affaire de peau, de corps ou de maquillage. Si l’apparence importe en société, la beauté est d’abord ce qui vient de l’intérieur. C’est parce que vous êtes belle au plus profond de vous-même que vous respirez la beauté. Et c’est parce que vous vous sentez bien au dedans de votre être que votre corps resplendit. Chez Kera, nous l’avons compris. Nos soins holistiques répondent parfaitement à ce continuum entre équilibre intérieur et apparence physique, par l’utilisation de techniques qui agissent autant sur votre mental que sur votre corps.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--Welcome One End-->
+
+<!--Welcome One Start-->
+<section class="welcome-one">
+    <div class="container">
+        <div class="row">
             <div class="col-xl-6">
                 <div class="welcome-one__right">
                     <div class="section-title text-left">
-                        <h2 class="section-title__title">Qui sommes-nous?</h2>
+                        <h2 class="section-title__title">La beauté holistique, l’expertise de KERA dans le Nord</h2>
                     </div>
-                    <p class="welcome-one__text">Bienvenue dans notre institut de beauté, où la confiance se mêle à l’excellence. Découvrez nos soins et des résultats éblouissants pour sublimer votre beauté. Faites nous confiance pour vous offrir une expérience inoubliable et un bien être absolu. Le Maison Kera est un institut de beauté depuis plus de 20 ans, avec 4 passionnées spécialisées dans les soins du visage, les soins du corps, maquillage, les extensions de cils.. .</p>
+                    <p class="welcome-one__text">Chaque être est beau par essence. Les épreuves du temps et de la vie sont autant de challenges qui peuvent affecter notre corps comme notre esprit. C’est en recherchant le bien-être tout en entretenant son corps que l’on parvient à conserver et améliorer, l’estime de soi. Notre approche holistique va plus loin que le seul bien-être physique. Les technologies de pointe agissant sur votre visage et votre corps ne sont ainsi qu’une partie de nos soins. Grâce à des techniques ancestrales de massage et de drainage, ainsi que des soins spécifiquement adaptés Kera, nos experts travaillent sur :</p>
+                    <ul class="welcome-one__text">
+                        <li>votre bien-être mental afin de réduire votre stress et vous amener à lâcher prise, induisant des pensées positives et une harmonie retrouvée</li>
+                        <li>votre bien-être spirituel qui repose sur la perception du sens de la vie</li>
+                        <li>votre bien-être émotionnel, pour vous aider à exprimer et gérer vos émotions de manière positive.</li>
+                    </ul>
+                    <p class="welcome-one__text">Par cette approche complète, l’expérience Kera fera ressortir la beauté qui est en vous et contribuera, nous l’espérons, à rendre votre existence plus harmonieuse.</p>
+                </div>
+            </div>
+            <div class="col-xl-6 d-flex align-items-center justify-content-center flex-column">
+                <div class="welcome-one__left">
+                    <div class="welcome-one__img-box wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
+                        <div class="welcome-one__img">
+                            <img src="assets/images/studio46/index/spa.jpg" alt="Photo& d’un membre du Studio46 qui travaille">
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -234,6 +262,100 @@
         </div>
     </div>
 </section>
+
+<!--Services Setails One Start-->
+<section class="services-details-one pb-5">
+    <div class="container">
+        <div class="services-details-one__massages">
+            <div class="row">
+                <div class="col-xl-6 col-lg-6 d-flex align-items-center justify-content-center flex-column">
+                    <div class="services-details-one__massages-left">
+                        <h3 class="services-details-one__massages-title">Nous vous aidons à faire resplendir votre visage</h3>
+                        <p class="welcome-one__text">Lorsque vous venez nous consulter pour un soin du visage, nous prenons toujours le temps de vous écouter afin d’adapter nos conseils et notre pratique. Lorsque nous vous connaissons un peu mieux, après avoir évalué les caractéristiques de votre peau, nous vous proposons différentes options, toujours personnalisées, combinant soins holistiques et techniques non invasives.</p>
+                        <br>
+                        <p class="welcome-one__text">Vous pourrez bénéficier de nos programmes KERA facialisme. Les séances reposent sur des massages, des manœuvres liftantes et drainantes, l’utilisation de produits de soin sophistiqués et d’outils technologiques spécialisés. Des sessions de radio fréquence régénérant votre peau, de peeling chimique réveillant son éclat, d’exposition aux lumières LED pour traiter différentes problématiques, ou d’endermologie LPG stimulant vos cellules vous permettent de bénéficier des technologies les plus innovantes et performantes. KERA vous aide en permanence à recouvrer un visage qui reflète toutes les facettes de votre beauté intérieure.</p>
+                    </div>
+                    <div class="welcome-one__btn-box">
+                        <a href="services.html" class="welcome-one__btn thm-btn">Visage</a>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6">
+                    <div class="services-details-one__massages-right">
+                        <div class="services-details-one__massages-img">
+                            <img src="<?= URL ?>assets/images/studio46/index/visage.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="services-details-one__benefits">
+            <div class="row">
+                <div class="col-xl-6 col-lg-6">
+                    <div class="services-details-one__benefits-left">
+                        <div class="services-details-one__benefits-img">
+                            <img src="<?= URL ?>assets/images/studio46/index/corps.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6 d-flex align-items-center justify-content-center flex-column">
+                    <div class="services-details-one__benefits-right">
+                        <h3 class="services-details-one__benefits-title">Entretenez votre corps et votre bien-être</h3>
+                        <p class="welcome-one__text">L’avancée dans la vie marque ses empreintes sur le corps. Sa connexion aux histoires que l’on rencontre, aux émotions ressenties, aux aléas de l’existence est prise en considération dans notre approche. Les différentes sessions proposées sont de véritables voyages sensoriels dont vous ressortirez transformée.</p>
+                        <br>
+                        <p class="welcome-one__text">Conçues comme des rituels intégrant une phase de mise en condition mentale, elles alternent soins de la peau, massages relaxant et antistress et autres manœuvres propices au lâcher-prise. Pour vous sentir à nouveau en phase avec votre corps.</p>
+                    </div>
+                    <div class="welcome-one__btn-box">
+                        <a href="services.html" class="welcome-one__btn thm-btn">Corps</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="services-details-one__benefits">
+            <div class="row">
+                <div class="col-xl-6 col-lg-6 d-flex align-items-center justify-content-center flex-column">
+                    <div class="services-details-one__benefits-right">
+                        <h3 class="services-details-one__benefits-title">Gardez la ligne, et la forme</h3>
+                        <p class="welcome-one__text">Nous déployons les technologies les plus récentes pour vous aider à maintenir un corps svelte, souple et musclé. Vous pourrez bénéficier de traitements amincissants par ultrasons ou par lipo-laser, de séances de LPG ou de radiofréquence pour raffermir votre peau, d’électrostimulation redessinant vos muscles… Car se sentir bien, c’est aussi construire l’image de soi qui vous correspond. Nous sommes là pour vous accompagner sur ce chemin.</p>
+                    </div>
+                <div class="welcome-one__btn-box">
+                    <a href="services.html" class="welcome-one__btn thm-btn">Minceur</a>
+                </div>
+                </div>
+                <div class="col-xl-6 col-lg-6">
+                    <div class="services-details-one__benefits-left">
+                        <div class="services-details-one__benefits-img">
+                            <img src="<?= URL ?>assets/images/studio46/index/forme.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="services-details-one__benefits">
+            <div class="row">
+                <div class="col-xl-6 col-lg-6">
+                    <div class="services-details-one__benefits-left">
+                        <div class="services-details-one__benefits-img">
+                            <img src="<?= URL ?>assets/images/studio46/index/apparence.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6 d-flex align-items-center justify-content-center flex-column">
+                    <div class="services-details-one__benefits-right">
+                        <h3 class="services-details-one__benefits-title">Complétez vos séances par des soins d’apparence</h3>
+                        <p class="welcome-one__text">Épilation, séances d’UV, rehaussements des cils, manucure ou pédicure, vous trouverez également chez KERA tous les services qu’un cabinet d’esthétique peut offrir. Notre approche holistique garantit des interventions indolores, professionnelles, dans un contexte bienveillant.</p>
+                    </div>
+                    <div class="welcome-one__btn-box">
+                        <a href="services.html" class="welcome-one__btn thm-btn">Manucure / Épilation</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--Services Setails One End-->
 
 <!--Testimonial One Start-->
 <section class="testimonial-one">

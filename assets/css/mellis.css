@@ -2254,7 +2254,7 @@ ul {
 
 .main-slider-two__title {
   position: relative;
-  font-size: 60px;
+  font-size: 48px;
   color: var(--mellis-white);
   font-weight: 400;
   line-height: 72px;
@@ -2574,7 +2574,8 @@ ul {
 
 .welcome-one__text {
   font-family: "Parisienne", cursive;
-  font-size: 22px;
+  font-size: 18px;
+  line-height: 36px;
 }
 
 /*--------------------------------------------------------------
