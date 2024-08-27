@@ -42,7 +42,7 @@
                     </div>
                     <div class="services-details-two__help-line">
                     <div class="services-details-two__help-line-img">
-                        <img src="assets/images/studio46/each-presta/epilation.webp" alt="photo de jambes d’une femme dans un institut de beauté qui se fait épiler avec de la cire rose ">
+                        <img src="assets/images/studio46/img-presta/epilation.webp" alt="photo de jambes d’une femme dans un institut de beauté qui se fait épiler avec de la cire rose ">
                     </div>
                     <div class="services-details-two__help-line-content">
                         <div class="services-details-two__help-line-icon">

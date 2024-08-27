@@ -1,6 +1,6 @@
 <!--Page Header Start-->
 <section class="page-header">
-    <div class="page-header__bg" style="background-image: url(assets/images/studio46/qui-sommes-nous/breadcrumb2.webp);">
+    <div class="page-header__bg" style="background-image: url(assets/images/studio46/breadcrumbs/qui-sommes-nous.webp);">
     </div>
     <div class="container">
         <div class="page-header__inner">

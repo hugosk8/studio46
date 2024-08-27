@@ -42,7 +42,7 @@
                     </div>
                     <div class="services-details-two__help-line">
                     <div class="services-details-two__help-line-img">
-                        <img src="assets/images/studio46/each-presta/news/UV.jpeg" alt="photo d’une machine de Kera minceur de studio46">
+                        <img src="assets/images/studio46/img-presta/news/UV.jpeg" alt="photo d’une machine de Kera minceur de studio46">
                     </div>
                     <div class="services-details-two__help-line-content">
                         <div class="services-details-two__help-line-icon">

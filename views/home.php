@@ -3,7 +3,7 @@
     <div class="swiper-container thm-swiper__slider">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-            <div class="image-layer-two" style="background-image: url(assets/images/studio46/index/breadcrumb2.png); background-position: cover;"></div>
+            <div class="image-layer-two" style="background-image: url(assets/images/studio46/index/banner.png); background-position: cover;"></div>
                 <!-- /.image-layer -->
 
                 <div class="container">
@@ -94,6 +94,12 @@
                     <div class="section-title text-left">
                         <h2 class="section-title__title">Vivez une expérience sans pareil au Maison Kera</h2>
                     </div>
+                                <div class="get-free__btn-box">
+                                    <div class="get-free__shape-1 float-bob-x">
+                                        <img src="assets/images/shapes/get-free-shape-1.png" alt="">
+                                    </div>
+                                    <a href="?p=contact" class="get-free__btn thm-btn">Prenez rendez-vous</a>
+                                </div>
                 </div>
             </div>
             <div class="col-xl-6 col-lg-6">

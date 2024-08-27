@@ -42,7 +42,7 @@
                     </div>
                     <div class="services-details-two__help-line">
                         <div class="services-details-two__help-line-img">
-                            <img src="assets/images/studio46/each-presta/soin-visage.webp" alt="photo d’une femme qui se fait déposer un masque sur le visage">
+                            <img src="assets/images/studio46/img-presta/soin-visage.webp" alt="photo d’une femme qui se fait déposer un masque sur le visage">
                         </div>
                         <div class="services-details-two__help-line-content">
                             <div class="services-details-two__help-line-icon">

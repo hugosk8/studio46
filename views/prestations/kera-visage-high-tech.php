@@ -42,7 +42,7 @@
                     </div>
                     <div class="services-details-two__help-line">
                         <div class="services-details-two__help-line-img">
-                            <img src="assets/images/studio46/each-presta/soins-mains-pieds.webp" alt="photo d’une main qui met de la crème sur un pied">
+                            <img src="assets/images/studio46/img-presta/soins-mains-pieds.webp" alt="photo d’une main qui met de la crème sur un pied">
                         </div>
                         <div class="services-details-two__help-line-content">
                             <div class="services-details-two__help-line-icon">

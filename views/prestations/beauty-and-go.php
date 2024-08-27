@@ -42,7 +42,7 @@
                     </div>
                     <div class="services-details-two__help-line">
                         <div class="services-details-two__help-line-img">
-                            <img src="assets/images/studio46/each-presta/maquillage.webp" alt="photo d’une femme qui se fait maquiller avec un pinceau délicatement les yeux">
+                            <img src="assets/images/studio46/img-presta/maquillage.webp" alt="photo d’une femme qui se fait maquiller avec un pinceau délicatement les yeux">
                         </div>
                         <div class="services-details-two__help-line-content">
                             <div class="services-details-two__help-line-icon">

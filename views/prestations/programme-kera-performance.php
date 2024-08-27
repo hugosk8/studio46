@@ -42,7 +42,7 @@
                     </div>
                     <div class="services-details-two__help-line">
                     <div class="services-details-two__help-line-img">
-                        <img src="assets/images/studio46/each-presta/news/aquabike-copie.jpg" height="" alt="photo d’une femme blonde qui fait de l’Programme kera performance">
+                        <img src="assets/images/studio46/img-presta/news/aquabike-copie.jpg" height="" alt="photo d’une femme blonde qui fait de l’Programme kera performance">
                     </div>
                     <div class="services-details-two__help-line-content">
                         <div class="services-details-two__help-line-icon">

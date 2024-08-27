@@ -42,7 +42,7 @@
                     </div>
                     <div class="services-details-two__help-line">
                         <div class="services-details-two__help-line-img">
-                            <img src="assets/images/studio46/each-presta/news/amincissement.webp" alt="photo d’une femme en tenue de sport qui fait un coeur avec ses mains sur son ventre">
+                            <img src="assets/images/studio46/img-presta/news/amincissement.webp" alt="photo d’une femme en tenue de sport qui fait un coeur avec ses mains sur son ventre">
                         </div>
                         <div class="services-details-two__help-line-content">
                             <div class="services-details-two__help-line-icon">
