@@ -1,6 +1,6 @@
 <!--Page Header Start-->
 <section class="page-header">
-    <div class="page-header__bg contact" style="background-image: url(assets/images/studio46/index/encens.jpg);">
+    <div class="page-header__bg contact" style="background-image: url(assets/images/kera/index/encens.jpg);">
     </div>
     <div class="container">
         <div class="page-header__inner">

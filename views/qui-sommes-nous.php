@@ -1,6 +1,6 @@
 <!--Page Header Start-->
 <section class="page-header">
-    <div class="page-header__bg" style="background-image: url(assets/images/studio46/breadcrumbs/qui-sommes-nous.webp);">
+    <div class="page-header__bg" style="background-image: url(assets/images/kera/breadcrumbs/qui-sommes-nous.webp);">
     </div>
     <div class="container">
         <div class="page-header__inner">
@@ -24,7 +24,7 @@
                 <div class="welcome-one__left">
                     <div class="welcome-one__img-box wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
                         <div class="welcome-one__img">
-                            <img src="assets/images/studio46/qui-sommes-nous/holisme.png" alt="Photo& d’un membre du Studio46 qui travaille">
+                            <img src="assets/images/kera/qui-sommes-nous/holisme.png" alt="Photo& d’un membre du Studio46 qui travaille">
                         </div>
                     </div>
                 </div>
@@ -97,7 +97,7 @@
                     <div class="testimonial-one__single about">
                         <div class="testimonial-one__single-inner">
                             <div class="testimonial-one__rating">
-                                <img src="<?= URL ?>assets/images/studio46/qui-sommes-nous/claire.png" class="about" alt="">
+                                <img src="<?= URL ?>assets/images/kera/qui-sommes-nous/claire.png" class="about" alt="">
                             </div>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__content">
@@ -115,7 +115,7 @@
                     <div class="testimonial-one__single about">
                         <div class="testimonial-one__single-inner">
                             <div class="testimonial-one__rating">
-                                <img src="<?= URL ?>assets/images/studio46/qui-sommes-nous/clemence.png" class="about" alt="">
+                                <img src="<?= URL ?>assets/images/kera/qui-sommes-nous/clemence.png" class="about" alt="">
                             </div>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__content">
@@ -132,7 +132,7 @@
                     <div class="testimonial-one__single about">
                         <div class="testimonial-one__single-inner">
                             <div class="testimonial-one__rating">
-                                <img src="<?= URL ?>assets/images/studio46/qui-sommes-nous/maelle.png" class="about" alt="">
+                                <img src="<?= URL ?>assets/images/kera/qui-sommes-nous/maelle.png" class="about" alt="">
                             </div>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__content">
@@ -149,7 +149,7 @@
                     <div class="testimonial-one__single about">
                         <div class="testimonial-one__single-inner">
                             <div class="testimonial-one__rating">
-                                <img src="<?= URL ?>assets/images/studio46/qui-sommes-nous/emeline.png" class="about" alt="">
+                                <img src="<?= URL ?>assets/images/kera/qui-sommes-nous/emeline.png" class="about" alt="">
                             </div>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__content">
@@ -169,13 +169,13 @@
 
 <!--Video One Start-->
 <section class="video-one">
-    <div class="video-one__bg jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%" style="background-image: url(assets/images/studio46/qui-sommes-nous/piscine.jpg);"></div>
+    <div class="video-one__bg jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%" style="background-image: url(assets/images/kera/qui-sommes-nous/piscine.jpg);"></div>
     <div class="container">
         <div class="row">
             <div class="col-xl-6 col-lg-6 m-auto">
                 <div class="video-one__left">
                     <div class="section-title text-left about">
-                        <img src="<?= URL ?>assets/images/studio46/qui-sommes-nous/QR-code.png" alt="">
+                        <img src="<?= URL ?>assets/images/kera/qui-sommes-nous/QR-code.png" alt="">
                         <p>Vous aussi, donnez nous votre avis<br>en scannant ce QR code</p>
                     </div>
                 </div>

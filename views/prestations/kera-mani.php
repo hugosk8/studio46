@@ -1,6 +1,6 @@
 <!--Page Header Start-->
 <section class="page-header">
-    <div class="page-header__bg" style="background-image: url(assets/images/studio46/breadcrumbs/bronzage.webp);"></div>
+    <div class="page-header__bg" style="background-image: url(assets/images/kera/breadcrumbs/bronzage.webp);"></div>
     <div class="container">
         <div class="page-header__inner">
             <ul class="thm-breadcrumb list-unstyled">
@@ -24,10 +24,9 @@
                 <div class="services-details-two__left">
                     <div class="services-details-two__category">
                         <ul class="services-details-two__category-list list-unstyled">
-                            <li><a href="<?= URL ?>?p=kera-visage-sur-mesure">Kera visage sur mesure<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=nos-soins-du-visage">Nos soins du visages<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=kera-facialisme">Kera facialisme<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=kera-visage-high-tech">Kera visage high tech<i class="fa fa-angle-right"></i></a></li>
-                            <li ><a href="<?= URL ?>?p=beauty-and-go">Beauty and go<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=kera-corps">kera corps<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=kera-experience">Kera experience<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=kera-minceur">Kera minceur<i class="fa fa-angle-right"></i></a></li>
@@ -38,11 +37,12 @@
                             <li><a href="<?= URL ?>?p=kera-eyes">Kera'eyes<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=programme-keractive">Le programme Ker'active<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=programme-kera-performance">Le programme Kera performance<i class="fa fa-angle-right"></i></a></li>
+                            <li ><a href="<?= URL ?>?p=beauty-and-go">Beauty and go<i class="fa fa-angle-right"></i></a></li>
                         </ul>
                     </div>
                     <div class="services-details-two__help-line">
                     <div class="services-details-two__help-line-img">
-                        <img src="assets/images/studio46/img-presta/epilation.webp" alt="photo de jambes d’une femme dans un institut de beauté qui se fait épiler avec de la cire rose ">
+                        <img src="assets/images/kera/img-presta/epilation.webp" alt="photo de jambes d’une femme dans un institut de beauté qui se fait épiler avec de la cire rose ">
                     </div>
                     <div class="services-details-two__help-line-content">
                         <div class="services-details-two__help-line-icon">

@@ -1,6 +1,6 @@
 <!--Page Header Start-->
 <section class="page-header">
-    <div class="page-header__bg" style="background-image: url(assets/images/studio46/breadcrumbs/soins-du-visage.webp);"></div>
+    <div class="page-header__bg" style="background-image: url(assets/images/kera/breadcrumbs/soins-du-visage.webp);"></div>
     <div class="container">
         <div class="page-header__inner">
             <ul class="thm-breadcrumb list-unstyled">
@@ -8,9 +8,9 @@
                 <li><span>/</span></li>
                 <li><a href="services.html">Nos prestations</a></li>
                 <li><span>/</span></li>
-                <li>Kera visage sur mesure</li>
+                <li>Nos soins du visages</li>
             </ul>
-            <h2>Kera visage sur mesure</h2>
+            <h2>Nos soins du visages</h2>
         </div>
     </div>
 </section>
@@ -24,10 +24,9 @@
                 <div class="services-details-two__left">
                     <div class="services-details-two__category">
                         <ul class="services-details-two__category-list list-unstyled">
-                            <li class="active"><a href="<?= URL ?>?p=kera-visage-sur-mesure">Kera visage sur mesure<i class="fa fa-angle-right"></i></a></li>
+                            <li class="active"><a href="<?= URL ?>?p=kera-visage-sur-mesure">Nos soins du visages<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=kera-facialisme">Kera facialisme<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=kera-visage-high-tech">Kera visage high tech<i class="fa fa-angle-right"></i></a></li>
-                            <li><a href="<?= URL ?>?p=beauty-and-go">Beauty and go<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=kera-corps">Kera corps<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=kera-experience">Kera experience<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=kera-minceur">Kera minceur<i class="fa fa-angle-right"></i></a></li>
@@ -38,13 +37,14 @@
                             <li><a href="<?= URL ?>?p=kera-eyes">Kera'eyes<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=programme-keractive">Le programme Ker'active<i class="fa fa-angle-right"></i></a></li>
                             <li><a href="<?= URL ?>?p=programme-kera-performance">Le programme Kera performance<i class="fa fa-angle-right"></i></a></li>
+                            <li><a href="<?= URL ?>?p=beauty-and-go">Beauty and go<i class="fa fa-angle-right"></i></a></li>
                         </ul>
                     </div>
                     <div class="services-details-two__help-line">
                         <div class="services-details-two__help-line-img">
-                            <img src="assets/images/studio46/img-presta/soin-visage.webp" alt="photo d’une femme qui se fait déposer un masque sur le visage">
+                            <img src="assets/images/kera/img-presta/soin-visage.webp" alt="photo d’une femme qui se fait déposer un masque sur le visage">
                         </div>
-                        <div class="services-details-two__help-line-content">
+                        <div class="services-details-two__help-line-content" style="position: relative">
                             <div class="services-details-two__help-line-icon">
                                 <span class="icon-telephone-call"></span>
                             </div>
@@ -57,8 +57,12 @@
             <div class="col-xl-8 col-lg-7">
                 <div class="services-details-two__right">
 
-                    <h3 class="services-details-two__title-1 text-center">Kera visage sur mesure</h3>
-                    <p class="services-details-two__text-1 text-center">Nous visons l’excellence grâce à une nouvelle approche du soin. Redécouvrez l’institut de beauté comme vous ne l’avez jamais connu.</p>
+                    <h3 class="services-details-two__title-1 text-center">Nos soins du visages</h3>
+                    <p class="services-details-two__text-1 text-center">
+                        Nous visons l’excellence grâce à une nouvelle approche du soin. Redécouvrez l’institut de beauté comme vous ne l’avez jamais connu.
+                        <br><br>
+                        Selon le temps que vous pouvez y consacrer, découvrez notre approche holistique avec un programme sur mesure combinant la prise en compte de votre personnalité et des soins adaptés.
+                    </p>
 
                     <div class="services-details-two__faq">
                         <div class="accrodion-grp" data-grp-name="faq-one-accrodion">

@@ -1169,22 +1169,7 @@
     .main-menu-three .mobile-nav__toggler {
         padding: 22px 0;
     }
-
-
-
-
-
-
-
-
-
 }
-
-
-
-
-
-
 
 @media only screen and (min-width: 1200px) and (max-width: 1449px) {}
 
@@ -1193,3 +1178,25 @@
 @media only screen and (min-width: 1300px) and (max-width: 1499px) {}
 
 @media only screen and (min-width: 1200px) and (max-width: 1299px) {}
+
+
+@media (max-width: 1999px) {
+
+    .col-xl-6.d-flex.align-items-center.justify-content-center.flex-column {
+        margin-top: 70px;
+    }
+
+    .services-details-one__benefits {
+        padding-top: 0;
+    }
+}
+
+@media (max-width: 991px) {
+    .small-reverse {
+        flex-direction: column-reverse;
+    }
+
+    .welcome-one.second {
+        padding-top: 0;
+    }
+}

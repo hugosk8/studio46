@@ -20,10 +20,10 @@ switch ($page) {
         $title = "Maison Kera | Nous contacter";
         require_once 'views/contact.php';
         break;
-    case 'kera-visage-sur-mesure':
-        $metaDescription = "Révélez votre éclat avec nos Kera visage sur mesure personnalisés. Profitez d'une expérience relaxante et revitalisante dès aujourd'hui : soin spiruline, soin de saison..";
-        $title = "Maison Kera | Kera visage sur mesure";
-        require_once 'views/prestations/kera-visage-sur-mesure.php';
+    case 'nos-soins-du-visage':
+        $metaDescription = "Révélez votre éclat avec nos soins du visages personnalisés. Profitez d'une expérience relaxante et revitalisante dès aujourd'hui : soin spiruline, soin de saison..";
+        $title = "Maison Kera | Nos soins du visages";
+        require_once 'views/prestations/nos-soins-du-visage.php';
         break;
     case 'kera-facialisme':
         $metaDescription = "Offrez à votre corps le bien-être qu'il mérite avec nos soins corporels apaisants. Détente et revitalisation au rendez-vous : soin californien, suédois, lomi lomi..";
@@ -104,6 +104,11 @@ switch ($page) {
         $metaDescription = "Pour des renseignements ou réservations, contactez-nous au 03.21.23.40.30. Réponse rapide assurée !";
         $title = "Maison Kera | Qui-sommes-nous?";
         require_once 'views/qui-sommes-nous.php';
+        break;
+    case 'nos-marques-partenaires':
+        $metaDescription = "";
+        $title = "";
+        require_once 'views/nos-marques-partenaires.php';
         break;
     default:
         require 'views/404.php';

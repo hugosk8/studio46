@@ -3,7 +3,7 @@
     <div class="swiper-container thm-swiper__slider">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-            <div class="image-layer-two" style="background-image: url(assets/images/studio46/index/banner.png); background-position: cover;"></div>
+            <div class="image-layer-two" style="background-image: url(assets/images/kera/index/banner.png); background-position: cover;"></div>
                 <!-- /.image-layer -->
 
                 <div class="container">
@@ -15,7 +15,7 @@
                                 <!-- <h2 class="subline main-slider-two__btn-box">À deux pas du beffroi</h2> -->
                                 <div class="get-free__btn-box">
                                     <div class="get-free__shape-1 float-bob-x">
-                                        <img src="assets/images/shapes/get-free-shape-1.png" alt="">
+                                        <img src="assets/images/shapes/get-free-shape-1.png" alt="Fléche qui pointe vers en abs a gauche">
                                     </div>
                                     <a href="?p=contact" class="get-free__btn thm-btn">Reservez maintenant</a>
                                 </div>
@@ -37,7 +37,7 @@
                 <div class="welcome-one__left">
                     <div class="welcome-one__img-box wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
                         <div class="welcome-one__img">
-                            <img src="assets/images/studio46/index/silhouette.jpg" alt="Photo& d’un membre du Studio46 qui travaille">
+                            <img src="assets/images/kera/index/silhouette.jpg" alt="Silouhette d'une femme de dos levantr le point">
                         </div>
                     </div>
                 </div>
@@ -53,7 +53,7 @@
 <!--Welcome One End-->
 
 <!--Welcome One Start-->
-<section class="welcome-one">
+<section class="welcome-one second">
     <div class="container">
         <div class="row">
             <div class="col-xl-6">
@@ -74,7 +74,7 @@
                 <div class="welcome-one__left">
                     <div class="welcome-one__img-box wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
                         <div class="welcome-one__img">
-                            <img src="assets/images/studio46/index/spa.jpg" alt="Photo& d’un membre du Studio46 qui travaille">
+                            <img src="assets/images/kera/index/spa.jpg" alt="Photo& d’un membre du Studio46 qui travaille">
                         </div>
                     </div>
                 </div>
@@ -86,7 +86,7 @@
 
 <!--Video One Start-->
 <section class="video-one">
-    <div class="video-one__bg jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%" style="background-image: url(assets/images/studio46/index/encens.jpg);"></div>
+    <div class="video-one__bg jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%" style="background-image: url(assets/images/kera/index/encens.jpg);"></div>
     <div class="container">
         <div class="row">
             <div class="col-xl-6 col-lg-6 m-auto">
@@ -109,7 +109,7 @@
                             <div class="icon">
                                 <span class="fa fa-check"></span>
                             </div>
-                            <p class="text"><a href="<?= URL ?>?p=kera-visage-sur-mesure">Kera visage sur mesure</a></p>
+                            <p class="text"><a href="<?= URL ?>?p=nos-soins-du-visage">Nos soins du visages</a></p>
                         </li>
                         <li>
                             <div class="icon">
@@ -127,12 +127,6 @@
                             <div class="icon">
                                 <span class="fa fa-check"></span>
                             </div>
-                            <p class="text"><a href="<?= URL ?>?p=beauty-and-go">Beauty and go</a></p>
-                        </li>
-                        <li>
-                            <div class="icon">
-                                <span class="fa fa-check"></span>
-                            </div>
                             <p class="text"><a href="<?= URL ?>?p=kera-corps">Kera corps</a></p>
                         </li>
                         <li>
@@ -141,8 +135,6 @@
                             </div>
                             <p class="text"><a href="<?= URL ?>?p=kera-experience">Kera experience</a></p>
                         </li>
-                    </ul>
-                    <ul class="video-one__points video-one__points-2 list-unstyled">
                         <li>
                             <div class="icon">
                                 <span class="fa fa-check"></span>
@@ -155,6 +147,8 @@
                             </div>
                             <p class="text"><a href="<?= URL ?>?p=kera-bronz">Kera bronz'</a></p>
                         </li>
+                    </ul>
+                    <ul class="video-one__points video-one__points-2 list-unstyled">
                         <li>
                             <div class="icon">
                                 <span class="fa fa-check"></span>
@@ -190,6 +184,12 @@
                                 <span class="fa fa-check"></span>
                             </div>
                             <p class="text"><a href="<?= URL ?>?p=programme-kera-performance">Le programme Kera performance</a></p>
+                        </li>
+                        <li>
+                            <div class="icon">
+                                <span class="fa fa-check"></span>
+                            </div>
+                            <p class="text"><a href="<?= URL ?>?p=beauty-and-go">Beauty and go</a></p>
                         </li>
                     </ul>
                 </div>
@@ -272,7 +272,8 @@
 <!--Services Setails One Start-->
 <section class="services-details-one pb-5">
     <div class="container">
-        <div class="services-details-one__massages">
+        <div class="services-details-one__massages mb-5">
+            <p class="corner-text-left">Nos soins du visage</p>
             <div class="row">
                 <div class="col-xl-6 col-lg-6 d-flex align-items-center justify-content-center flex-column">
                     <div class="services-details-one__massages-left">
@@ -282,13 +283,13 @@
                         <p class="welcome-one__text">Vous pourrez bénéficier de nos programmes KERA facialisme. Les séances reposent sur des massages, des manœuvres liftantes et drainantes, l’utilisation de produits de soin sophistiqués et d’outils technologiques spécialisés. Des sessions de radio fréquence régénérant votre peau, de peeling chimique réveillant son éclat, d’exposition aux lumières LED pour traiter différentes problématiques, ou d’endermologie LPG stimulant vos cellules vous permettent de bénéficier des technologies les plus innovantes et performantes. KERA vous aide en permanence à recouvrer un visage qui reflète toutes les facettes de votre beauté intérieure.</p>
                     </div>
                 </div>
-                <div class="col-xl-6 col-lg-6">
+                <div class="col-xl-6 col-lg-6 d-flex align-items-center justify-content-center flex-column">
                     <div class="services-details-one__massages-right">
                         <div class="gallery-page__single">
                             <div class="welcome-one__img gallery-page__img services-details-one__massages-img">
-                                <img src="assets/images/studio46/index/visage.jpg" alt="Photo& d’un membre du Studio46 qui travaille">
+                                <img src="assets/images/kera/index/visage.jpg" alt="Photo& d’un membre du Studio46 qui travaille">
                                 <div class="gallery-page__icon">
-                                    <a href="?p=kera-visage-sur-mesure">Visage</a>
+                                    <a href="?p=nos-soins-du-visage">Visage</a>
                                 </div>
                             </div>
                         </div>
@@ -297,13 +298,14 @@
             </div>
         </div>
 
-        <div class="services-details-one__benefits">
-            <div class="row">
-                <div class="col-xl-6 col-lg-6">
+        <div class="services-details-one__benefits mb-5">
+            <p class="corner-text-right">Nos soins du corps</p>
+            <div class="row small-reverse">
+                <div class="col-xl-6 col-lg-6 d-flex align-items-center justify-content-center flex-column">
                     <div class="services-details-one__benefits-left">
                         <div class="gallery-page__single">
                             <div class="welcome-one__img gallery-page__img services-details-one__massages-img">
-                                <img src="assets/images/studio46/index/corps.jpg" alt="Photo& d’un membre du Studio46 qui travaille">
+                                <img src="assets/images/kera/index/corps.jpg" alt="Photo& d’un membre du Studio46 qui travaille">
                                 <div class="gallery-page__icon services-details-one__benefits-img">
                                     <a href="?p=kera-corps">Corps</a>
                                 </div>
@@ -322,7 +324,8 @@
             </div>
         </div>
 
-        <div class="services-details-one__benefits">
+        <div class="services-details-one__benefits mb-5">
+            <p class="corner-text-left">Nos solutions minceur</p>
             <div class="row">
                 <div class="col-xl-6 col-lg-6 d-flex align-items-center justify-content-center flex-column">
                     <div class="services-details-one__benefits-right">
@@ -330,11 +333,11 @@
                         <p class="welcome-one__text">Nous déployons les technologies les plus récentes pour vous aider à maintenir un corps svelte, souple et musclé. Vous pourrez bénéficier de traitements amincissants par ultrasons ou par lipo-laser, de séances de LPG ou de radiofréquence pour raffermir votre peau, d’électrostimulation redessinant vos muscles… Car se sentir bien, c’est aussi construire l’image de soi qui vous correspond. Nous sommes là pour vous accompagner sur ce chemin.</p>
                     </div>
                 </div>
-                <div class="col-xl-6 col-lg-6">
+                <div class="col-xl-6 col-lg-6 d-flex align-items-center justify-content-center flex-column">
                     <div class="services-details-one__benefits-left">
                         <div class="gallery-page__single">
                             <div class="welcome-one__img gallery-page__img services-details-one__massages-img">
-                                <img src="assets/images/studio46/index/forme.jpg" alt="Photo& d’un membre du Studio46 qui travaille">
+                                <img src="assets/images/kera/index/forme.jpg" alt="Photo& d’un membre du Studio46 qui travaille">
                                 <div class="gallery-page__icon services-details-one__benefits-img">
                                     <a href="?p=kera-minceur">Minceur</a>
                                 </div>
@@ -346,12 +349,13 @@
         </div>
 
         <div class="services-details-one__benefits">
-            <div class="row">
-                <div class="col-xl-6 col-lg-6">
+            <p class="corner-text-right">Nos soins d'apparence</p>
+            <div class="row small-reverse">
+                <div class="col-xl-6 col-lg-6 d-flex align-items-center justify-content-center flex-column">
                     <div class="services-details-one__benefits-left">
                         <div class="gallery-page__single">
                             <div class="welcome-one__img gallery-page__img services-details-one__massages-img">
-                                <img src="assets/images/studio46/index/apparence.jpg" alt="Photo& d’un membre du Studio46 qui travaille">
+                                <img src="assets/images/kera/index/apparence.jpg" alt="Photo& d’un membre du Studio46 qui travaille">
                                 <div class="gallery-page__icon services-details-one__benefits-img">
                                     <a href="?p=kera-epil">Manucure / Épilation</a>
                                 </div>
@@ -430,7 +434,7 @@
                             <p class="testimonial-one__text-2">Très bel accueil, esthéticiennes sympathiques, un excellent soin du visage Thalgo ☺️ Endroit propre et relaxant, je recommande !</p>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-img">
-                                    <img src="assets/images/studio46/pictos-avis/picto1.svg" class="picto" alt="pictogramme utilisatrice">
+                                    <img src="assets/images/kera/pictos-avis/picto1.svg" class="picto" alt="pictogramme utilisatrice">
                                 </div>
                                 <div class="testimonial-one__content">
                                     <h3 class="testimonial-one__client-name">Clarisse Gautier</h3>
@@ -457,7 +461,7 @@
                             <p class="testimonial-one__text-2">Super pro et super massage je recommande</p>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-img">
-                                    <img src="assets/images/studio46/pictos-avis/picto2.svg" class="picto" alt="pictogramme utilisatrice">
+                                    <img src="assets/images/kera/pictos-avis/picto2.svg" class="picto" alt="pictogramme utilisatrice">
                                 </div>
                                 <div class="testimonial-one__content">
                                     <h3 class="testimonial-one__client-name">Segolene Gruet</h3>
@@ -484,7 +488,7 @@
                             <p class="testimonial-one__text-2">Merci Maison Kera !!! Je viens d’y aller pour l’extension de mes cils et j’adore le résultat. Personnel très pro et très douce. À très vite</p>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-img">
-                                    <img src="assets/images/studio46/pictos-avis/picto3.svg" class="picto" alt="pictogramme utilisatrice">
+                                    <img src="assets/images/kera/pictos-avis/picto3.svg" class="picto" alt="pictogramme utilisatrice">
                                 </div>
                                 <div class="testimonial-one__content">
                                     <h3 class="testimonial-one__client-name">Bèatrice Suret</h3>
@@ -511,7 +515,7 @@
                             <p class="testimonial-one__text-2">Bon accueil, les soins sont très bien réalisé qualité / prix rien à redire</p>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-img">
-                                    <img src="assets/images/studio46/pictos-avis/picto4.svg" alt="pictogramme utilisatrice">
+                                    <img src="assets/images/kera/pictos-avis/picto4.svg" alt="pictogramme utilisatrice">
                                 </div>
                                 <div class="testimonial-one__content">
                                     <h3 class="testimonial-one__client-name">Angel Montigny</h3>
@@ -538,7 +542,7 @@
                             <p class="testimonial-one__text-2">Rien à dire équipe agréable tout pour le bien être n’hésitez pas à venir connaître cette endroit je vous le recommande !!!</p>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-img">
-                                    <img src="assets/images/studio46/pictos-avis/picto5.svg" alt="pictogramme utilisatrice">
+                                    <img src="assets/images/kera/pictos-avis/picto5.svg" alt="pictogramme utilisatrice">
                                 </div>
                                 <div class="testimonial-one__content">
                                     <h3 class="testimonial-one__client-name">Josie Gelle</h3>
@@ -561,85 +565,5 @@
     </div>
 </section>
 <!--Brand One End-->
-
-<!--Instagram Start-->
-<!-- <section class="instagram">
-    <div class="container">
-        <div class="instagram__title">
-            <h3>Rejoignez-nous sur Instagram</h3>
-        </div>
-        <div class="row">
-            
-            <div class="col-xl-2 col-lg-4 col-md-6">
-                <div class="instagram__single">
-                    <div class="instagram__img">
-                        <img src="assets/images/studio46/photo-insta/photo_1.webp" alt="Photo de l’intérieur de l’institut Maison Kera, laissant apparaitre de beaux escaliers en bois">
-                        <div class="instagram__img-icon">
-                            <a href="https://www.instagram.com/studio46.arras/"><span class="fab fa-instagram"></span></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="col-xl-2 col-lg-4 col-md-6">
-                <div class="instagram__single">
-                    <div class="instagram__img">
-                        <img src="assets/images/studio46/photo-insta/photo_2.webp" alt="Photo de l’intérieur d’un sauna, des bancs en bois sont apparents à l’intérieur du sauna.">
-                        <div class="instagram__img-icon">
-                            <a href="https://www.
-                            instagram.com/studio46.arras/"><span class="fab fa-instagram"></span></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="col-xl-2 col-lg-4 col-md-6">
-                <div class="instagram__single">
-                    <div class="instagram__img">
-                        <img src="assets/images/studio46/photo-insta/photo_3.webp" alt="Photo d’une pièce de massage, dans une ambiance chaleureuse">
-                        <div class="instagram__img-icon">
-                            <a href="https://www.instagram.com/studio46.arras/"><span class="fab fa-instagram"></span></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="col-xl-2 col-lg-4 col-md-6">
-                <div class="instagram__single">
-                    <div class="instagram__img">
-                        <img src="assets/images/studio46/photo-insta/photo_4.webp" alt="Photo de l’espace manucure, avec une étagère comportant beaucoup de produits">
-                        <div class="instagram__img-icon">
-                            <a href="https://www.instagram.com/studio46.arras/"><span class="fab fa-instagram"></span></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="col-xl-2 col-lg-4 col-md-6">
-                <div class="instagram__single">
-                    <div class="instagram__img">
-                        <img src="assets/images/studio46/photo-insta/photo_5.webp" alt="Photo d’une machine du Studio46">
-                        <div class="instagram__img-icon">
-                            <a href="https://www.instagram.com/studio46.arras/"><span class="fab fa-instagram"></span></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="col-xl-2 col-lg-4 col-md-6">
-                <div class="instagram__single">
-                    <div class="instagram__img">
-                        <img src="assets/images/studio46/photo-insta/photo_6.webp" alt="Photo d’un mur avec des étagères contenant des produits de l'institut Studio46">
-                        <div class="instagram__img-icon">
-                            <a href="https://www.instagram.com/studio46.arras/"><span class="fab fa-instagram"></span></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-        </div>
-    </div>
-</section>
-Instagram End-->
 
 <script src="assets/js/carrousel.js"></script>

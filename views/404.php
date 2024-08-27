@@ -11,7 +11,7 @@
                     <span>Retour a la <a href="<?= URL ?>?p=accueil">page d'accueil</a>.</span>
                 </div>
                 <div class="gif">
-                    <img src="assets/images/studio46/404.gif" alt="gif erreur 404">
+                    <img src="assets/images/kera/404.gif" alt="gif erreur 404">
                 </div>
             </div>
         </div>

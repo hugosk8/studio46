@@ -484,7 +484,7 @@ ul {
   animation-duration: 2s;
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
-  background-image: url(../images/studio46/logo_maison_Kera.png);
+  background-image: url(../images/kera/logo_maison_Kera.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 130px auto;
@@ -2965,6 +2965,7 @@ p.services-one__text {
   display: flex;
   align-items: center;
   margin-bottom: 21px;
+  justify-content: center;
 }
 
 .counter-one__single::before {
@@ -7316,7 +7317,7 @@ footer img {
 .services-details-two__right .inner.tech .img {
   width: 55%;
   height: 100%;
-  background-image: url('../images/studio46/programme-keractive/technologies.png');
+  background-image: url('../images/kera/programme-keractive/technologies.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -7345,7 +7346,7 @@ footer img {
 .services-details-two__right .inner.perf .img {
   width: 55%;
   height: 100%;
-  background-image: url('../images/studio46/kera-performance/performance.png');
+  background-image: url('../images/kera/kera-performance/performance.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -7451,6 +7452,9 @@ footer img {
 .services-details-one__massages {
   position: relative;
   display: block;
+  background-color: #ebebeb; 
+  padding: 30px; 
+  border-radius:24px;
 }
 
 .services-details-one__massages-left {
@@ -7493,10 +7497,21 @@ footer img {
   width: 100%;
 }
 
+.services-details-one__massages-img.partenaires {
+  text-align: center;
+}
+
+.services-details-one__massages-img.partenaires img {
+  width: 60%;
+}
+
 .services-details-one__benefits {
   position: relative;
   display: block;
   padding-top: 112px;
+  background-color: #ebebeb; 
+  padding: 30px; 
+  border-radius:24px;
 }
 
 .services-details-one__benefits-left {
@@ -7522,6 +7537,7 @@ footer img {
 .services-details-one__benefits-title {
   font-size: 40px;
   line-height: 50px;
+  margin-bottom: 10px;
 }
 
 .services-details-one__benefits-text {
@@ -9564,5 +9580,23 @@ a._0001 {
 }
 
 .font-dancing {
+  font-family: "Parisienne", cursive;
+}
+
+.corner-text-left {
+  position: absolute;
+  top: 15px;
+  left: -45px;
+  transform: rotate(-25deg);
+  font-size: 32px;
+  font-family: "Parisienne", cursive;
+}
+
+.corner-text-right {
+  position: absolute;
+  top: 15px;
+  right: -45px;
+  transform: rotate(25deg);
+  font-size: 32px;
   font-family: "Parisienne", cursive;
 }
