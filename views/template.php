@@ -25,9 +25,9 @@
     </title>
 
     <!-- favicons Icons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/studio46/favicon.ico" />
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/studio46/favicon.ico" />
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/studio46/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/studio46/favicon_maison_kera.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/studio46/favicon_maison_kera.ico" />
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/studio46/favicon_maison_kera.ico" />
     <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
     <!-- Baskerville -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -35,8 +35,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Parisienne&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Parisienne&display=swap" rel="stylesheet">
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -174,7 +174,7 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="site-footer__bottom-inner">
-                                <p class="site-footer__bottom-text">Réalisé par <a href="https://www.0001.fr/" class="_0001">0001.fr</a></p>
+                                <p class="site-footer__bottom-text">Réalisé par <a href="https://www.0001.fr/" class="_0001">0001-Communication.fr</a></p>
                                 <a href="<?= URL ?>?p=mentions-legales">
                                     <p class="mentionBtn">Mentions legales</p>
                                 </a>

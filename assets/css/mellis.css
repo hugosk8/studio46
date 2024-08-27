@@ -484,10 +484,10 @@ ul {
   animation-duration: 2s;
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
-  background-image: url(../images/studio46/logo.webp);
+  background-image: url(../images/studio46/logo_maison_Kera.png);
   background-repeat: no-repeat;
   background-position: center center;
-  background-size: 60px auto;
+  background-size: 130px auto;
   width: 100%;
   height: 100%;
 }
@@ -4093,7 +4093,7 @@ p.services-one__text {
 
 .footer-widget__timing-list li {
   font-size: 14px;
-  color: #a6a2ac;
+  color: white;
 }
 
 .footer-widget__social-box {
@@ -4181,7 +4181,7 @@ p.services-one__text {
 
 .footer-widget__social-box p {
   font-size: 14px;
-  color: #a6a2ac;
+  color: white;
   font-family: var(--mellis-font-two);
   font-weight: 400;
 }
@@ -4205,7 +4205,7 @@ p.services-one__text {
 
 .site-footer__bottom-text {
   font-size: 14px;
-  color: #a6a2ac;
+  color: white;
 }
 
 .site-footer__bottom-text a {
@@ -7396,6 +7396,7 @@ footer img {
   position: relative;
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
+  text-align: center;
 }
 
 .services-details-two__faq .faq-one-accrodion .accrodion+.accrodion {
@@ -8450,6 +8451,7 @@ footer img {
   background-color: var(--mellis-base);
   opacity: 0;
   visibility: hidden;
+  z-index: 1;
   -webkit-transform-origin: top center;
   transform-origin: top center;
   -webkit-transform: scaleY(0) translateZ(100px);
@@ -8491,7 +8493,7 @@ footer img {
 
 .gallery-page__icon a {
   height: 50px;
-  width: 50px;
+  width: 50%;
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -8504,6 +8506,7 @@ footer img {
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
   z-index: 2;
+  font-family: "Parisienne", cursive;
 }
 
 
