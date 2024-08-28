@@ -93,28 +93,28 @@
                         <div class="main-menu__main-menu-box">
                             <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
                             <ul class="main-menu__list">
-                                <li><a href="<?= URL ?>?p=accueil">Accueil</a></li>
+                                <li><a class="<?php if (basename($_SERVER['REQUEST_URI']) == '?p=accueil'){ echo 'active'; } ?>" href="<?= URL ?>?p=accueil">Accueil</a></li>
                                 <li class="dropdown">
-                                    <a href="<?= URL ?>?p=prestations">Nos prestations</a>
+                                    <a class="<?php if (basename($_SERVER['REQUEST_URI']) == '?p=prestations'){ echo 'active'; } ?>" href="<?= URL ?>?p=prestations">Nos prestations</a>
                                     <ul>
-                                        <li><a href="<?= URL ?>?p=nos-soins-du-visage">Nos soins du visages</a></li>
-                                        <li><a href="<?= URL ?>?p=kera-facialisme">Kera facialisme</a></li>
-                                        <li><a href="<?= URL ?>?p=kera-visage-high-tech">Kera visage high tech</a></li>
-                                        <li><a href="<?= URL ?>?p=kera-corps">kera corps</a></li>
-                                        <li><a href="<?= URL ?>?p=kera-experience">Kera experience</a></li>
-                                        <li><a href="<?= URL ?>?p=kera-minceur">Kera minceur</a></li>
-                                        <li><a href="<?= URL ?>?p=kera-bronz">Kera bronz'</a></li>
-                                        <li><a href="<?= URL ?>?p=kera-epil">Kera epil'</a></li>
-                                        <li><a href="<?= URL ?>?p=kera-mani">Kera mani</a></li>
-                                        <li><a href="<?= URL ?>?p=kera-pedi">Kera pedi</a></li>
-                                        <li><a href="<?= URL ?>?p=kera-eyes">Kera'eyes</a></li>
-                                        <li><a href="<?= URL ?>?p=programme-keractive">Le programme Ker'active</a></li>
-                                        <li><a href="<?= URL ?>?p=programme-kera-performance">Le programme Kera performance</a></li>
-                                        <li><a href="<?= URL ?>?p=beauty-and-go">Beauty and go</a></li>
+                                        <li><a class="<?php if (basename($_SERVER['REQUEST_URI']) == '?p=nos-soins-du-visage'){ echo 'active'; } ?>" href="<?= URL ?>?p=nos-soins-du-visage">Nos soins du visages</a></li>
+                                        <li><a class="<?php if (basename($_SERVER['REQUEST_URI']) == '?p=kera-facialisme'){ echo 'active'; } ?>" href="<?= URL ?>?p=kera-facialisme">Kera facialisme</a></li>
+                                        <li><a class="<?php if (basename($_SERVER['REQUEST_URI']) == '?p=kera-visage-high-tech'){ echo 'active'; } ?>" href="<?= URL ?>?p=kera-visage-high-tech">Kera visage high tech</a></li>
+                                        <li><a class="<?php if (basename($_SERVER['REQUEST_URI']) == '?p=kera-corps'){ echo 'active'; } ?>" href="<?= URL ?>?p=kera-corps">kera corps</a></li>
+                                        <li><a class="<?php if (basename($_SERVER['REQUEST_URI']) == '?p=kera-experience'){ echo 'active'; } ?>" href="<?= URL ?>?p=kera-experience">Kera experience</a></li>
+                                        <li><a class="<?php if (basename($_SERVER['REQUEST_URI']) == '?p=kera-minceur'){ echo 'active'; } ?>" href="<?= URL ?>?p=kera-minceur">Kera minceur</a></li>
+                                        <li><a class="<?php if (basename($_SERVER['REQUEST_URI']) == '?p=kera-bronz'){ echo 'active'; } ?>" href="<?= URL ?>?p=kera-bronz">Kera bronz'</a></li>
+                                        <li><a class="<?php if (basename($_SERVER['REQUEST_URI']) == '?p=kera-epil'){ echo 'active'; } ?>" href="<?= URL ?>?p=kera-epil">Kera epil'</a></li>
+                                        <li><a class="<?php if (basename($_SERVER['REQUEST_URI']) == '?p=kera-mani'){ echo 'active'; } ?>" href="<?= URL ?>?p=kera-mani">Kera mani</a></li>
+                                        <li><a class="<?php if (basename($_SERVER['REQUEST_URI']) == '?p=kera-pedi'){ echo 'active'; } ?>" href="<?= URL ?>?p=kera-pedi">Kera pedi</a></li>
+                                        <li><a class="<?php if (basename($_SERVER['REQUEST_URI']) == '?p=kera-eyes'){ echo 'active'; } ?>" href="<?= URL ?>?p=kera-eyes">Kera'eyes</a></li>
+                                        <li><a class="<?php if (basename($_SERVER['REQUEST_URI']) == '?p=programme-keractive'){ echo 'active'; } ?>" href="<?= URL ?>?p=programme-keractive">Le programme Ker'active</a></li>
+                                        <li><a class="<?php if (basename($_SERVER['REQUEST_URI']) == '?p=programme-kera-performance'){ echo 'active'; } ?>" href="<?= URL ?>?p=programme-kera-performance">Le programme Kera performance</a></li>
+                                        <li><a class="<?php if (basename($_SERVER['REQUEST_URI']) == '?p=beauty-and-go'){ echo 'active'; } ?>" href="<?= URL ?>?p=beauty-and-go">Beauty and go</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="<?= URL ?>?p=qui-sommes-nous">Qui sommes nous ?</a></li>
-                                <li><a href="<?= URL ?>?p=contact">Contact</a></li>
+                                <li><a class="<?php if (basename($_SERVER['REQUEST_URI']) == '?p=qui-sommes-nous'){ echo 'active'; } ?>" href="<?= URL ?>?p=qui-sommes-nous">Qui sommes nous ?</a></li>
+                                <li><a class="<?php if (basename($_SERVER['REQUEST_URI']) == '?p=contact'){ echo 'active'; } ?>" href="<?= URL ?>?p=contact">Contact</a></li>
                             </ul>
                         </div>
                     </div>

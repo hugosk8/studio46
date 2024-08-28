@@ -20,7 +20,7 @@
 <section class="welcome-one">
     <div class="container">
         <div class="row">
-            <div class="col-xl-6">
+            <div class="col-xl-6 d-flex align-items-center justify-content-center">
                 <div class="welcome-one__left">
                     <div class="welcome-one__img-box wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
                         <div class="welcome-one__img">
@@ -29,7 +29,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-6">
+            <div class="col-xl-6 d-flex align-items-center justify-content-center">
                 <div class="welcome-one__right">
                     <div class="section-title text-left">
                         <h2 class="section-title__title">Qu’est ce que l’Holisme ?</h2>

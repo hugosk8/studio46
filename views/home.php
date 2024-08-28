@@ -72,7 +72,7 @@
             </div>
             <div class="col-xl-6 d-flex align-items-center justify-content-center flex-column">
                 <div class="welcome-one__left">
-                    <div class="welcome-one__img-box wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
+                    <div class="welcome-one__img-box wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
                         <div class="welcome-one__img">
                             <img src="assets/images/kera/index/spa.jpg" alt="Photo& d’un membre du Studio46 qui travaille">
                         </div>
